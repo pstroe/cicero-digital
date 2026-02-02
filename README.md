@@ -1,37 +1,21 @@
-# JupyterLite Demo
+# Cicero Digital
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
+Das ist die JupyterLite-Umgebung für den Kurs [Cicero Digital](https://studentservices.uzh.ch/uzh/launchpad?sap-language=DE&sap-ui-language=DE#ZVVZ-display?Id=51311875&ObjectType=SM&PiqSession=004&PiqYear=2025&sap-app-origin-hint=&/details/2025/004/E/51311899/////////51311875/Alte%2520Geschichte%25201%2520(Kolloquium)), angeboten im Frühlingssemester 2026 an der [Universität Zürich](https://www.uzh.ch)
 
-JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
+Der Kurs wird unterrichtet von [Prof. Dr. Felix K. Maier](https://www.hist.uzh.ch/de/fachbereiche/altegeschichte/lehrstuehle/maier/lehrstuhl-maier/lehrstuhlinhaber/maier.html) und [Dr. Phillip B. Ströbel](https://www.hist.uzh.ch/de/fachbereiche/altegeschichte/lehrstuehle/maier/lehrstuhl-maier/Wissenschaftlicher-Mitarbeiter/pstroebel0.html).
 
-## ✨ Try it in your browser ✨
+Dieses Repo enthält die wesentlichen Jupyter-Notebooks, die anhand des Cicero-Briefwechsels Methoden aus der Computerlinguistik illustrieren und sie so einem Publikum aus der Geschichtswissenschaften zugänglich machen.
 
-➡️ **https://jupyterlite.github.io/demo**
+## ✨ Unterrichtsmaterialien ✨
 
-![github-pages](https://user-images.githubusercontent.com/591645/120649478-18258400-c47d-11eb-80e5-185e52ff2702.gif)
+Neben den in diesem Repo enthaltenen Daten und Jupyter-Notebooks, wird in Kürze ein [Reader]() zur Verfügung gestellt werden.
 
-## Requirements
+## Ziel des Kolloquiums
 
-JupyterLite is being tested against modern web browsers:
+Der Output der Veranstaltung besteht in einer kuratierten Wiki-Seite, welche die Teilnehmenden in 2-er-Gruppen über das Semester hinweg erstellen werden. Das Wiki (aktuell noch leer) befindet sich hier: [Wiki zu Cicero Digital](https://cicero-digital-671a154f469b.herokuapp.com/en/home)
 
-- Firefox 90+
-- Chromium 89+
+## Fragen und Anregungen
 
-## Deploy your JupyterLite website on GitHub Pages
-
-Check out the guide on the JupyterLite documentation: https://jupyterlite.readthedocs.io/en/latest/quickstart/deploy.html
-
-## Further Information and Updates
-
-For more info, keep an eye on the JupyterLite documentation:
-
-- How-to Guides: https://jupyterlite.readthedocs.io/en/latest/howto/index.html
-- Reference: https://jupyterlite.readthedocs.io/en/latest/reference/index.html
-
-This template provides the Pyodide kernel (`jupyterlite-pyodide-kernel`), the JavaScript kernel (`jupyterlite-javascript-kernel`), and the p5 kernel (`jupyterlite-p5-kernel`), along with other
-optional utilities and extensions to make the JupyterLite experience more enjoyable. See the
-[`requirements.txt` file](requirements.txt) for a list of all the dependencies provided.
-
-For a template based on the Xeus kernel, see the [`jupyterlite/xeus-python-demo` repository](https://github.com/jupyterlite/xeus-python-demo)
+Bei Fragen und Anregungen wenden Sie sich bitte an [Dr. Phillip B. Ströbel](mailto:phillip.stroebel@uzh.ch)
 
 
