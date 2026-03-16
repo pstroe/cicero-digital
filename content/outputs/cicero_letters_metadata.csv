@@ -1,0 +1,931 @@
+corpus,book_n,letter_n,sender,recipient,date_when,year,dateline
+ad_familiares,1,1,,,-0056,-56.0,Scr. Romae Id. Ian. a. u. c. 698 (a. Chr. 56) .
+ad_familiares,1,2,M. CICERO,P. LENTVLO PROCOS,,,Scr. Romae a. d. xvi Kal. Febr. a. 698 (56).
+ad_familiares,1,3,M. CICERO,P. LENTVLO PROCOS,-0056,-56.0,Scr. Romae medio mense Ian. a. 698 (56) .
+ad_familiares,1,4,M. CICERO,P. LENTVLO PROCOS,,,Scr. Romae circiter xv Kal. Febr. a. 698 (56).
+ad_familiares,1,5a,M. CICERO,P. LENTVLO PROCOS,-0056,-56.0,Scr. Romae circiter Non. Febr. a. 698 (56) .
+ad_familiares,1,5b,M. CICERO,P. LENTVLO PROCOS,,,Scr. Romae paulo post vi Id. Febr. a. 698 (56).
+ad_familiares,1,6,M. CICERO,P. LENTVLO PROCOS,-0056,-56.0,"Scr. Romae mense ut videtur, Mart. a. 698 (56) ."
+ad_familiares,1,7,M. CICERO,P. LENTVLO PROCOS,-0056,-56.0,Scr. Romae exeunte mense Quint. a. 698 (56) .
+ad_familiares,1,8,M. CICERO,P. LENTVLO PROCOS,-0055,-55.0,Scr. Romae mense Ian. a. 699 (55) .
+ad_familiares,1,9,M. CICERO,LENTVLO IMP,-0054,-54.0,Scr. Romae mense Dec. a. 700 (54) .
+ad_familiares,1,10,M. CICERO,L. VALERIO IVRICCONSVLTO,-0054,-54.0,Scr. Romae ex a. 700 (54) .
+ad_familiares,2,1,M. CICERO,CVRIONI,-0053,-53.0,Scr. Romae a. 701 (53) .
+ad_familiares,2,2,M. CICERO,C. CVRIONI,-0053,-53.0,Scr. Romae a. 701 (53) .
+ad_familiares,2,3,M. CICERO,C. CVRIONI,-0053,-53.0,Scr. Romae a. 701 (53) .
+ad_familiares,2,4,CICERO,C. CVRIONI,-0053,-53.0,Scr. Romae a. 701 (53) .
+ad_familiares,2,5,CICERO,C. CVRONI,-0053,-53.0,Scr. Romae a. 701 (53) .
+ad_familiares,2,6,M. CICERO,C. CVRIONI,-0053,-53.0,Scr. Romae a. 701 (53) .
+ad_familiares,2,7,M. CICERO IMP.,C. CVRIONI TR. PL,,,Scr. in castris ad Pindenessum a d. xiv K. Ianuar. a. 703 (51).
+ad_familiares,2,8,M. CICERO PROCOS.,M. CAELIO,,,Scr. Athenis prid. Non. Quint. 0.703 (51).
+ad_familiares,2,9,M. CICERO PROCOS.,M. CAELIO AEDILI CVR. DESIGNATO,-0051,-51.0,Scr. in castris ad Pindenissum vel ex m. Oct. vel in. Nov. a. 703 (51) .
+ad_familiares,2,10,M. CICERO IMP.,M. CAELIO AEDILI CVRVLI DESIGNATO,,,Scr. in castris ad Pindenissum a. d. xvii K. Decembr. a. 703 (51).
+ad_familiares,2,11,M.,CICERO,,,Scr. Laudiceae prid. Non. Apr. a. 704 (50).
+ad_familiares,2,12,M. CICERO IMP.,M CAELIO AEDILI CVRVLI,,,Scr. in castris in Cilicia paulo ante vi K. Quint. a. 704 (50).
+ad_familiares,2,13,M. CICERO IMP.,M. CAELIO AEDILI CVRVLI,-0050,-50.0,Scr. Laudiceae inter K. et Non. Maias a. 704 (50) .
+ad_familiares,2,14,M. CICERO IMP.,M CAELIO AEDILI CVRVLI,-0050,-50.0,Scr. Laudiceae m. Febr. a. 704 (50) .
+ad_familiares,2,15,M. CICERO IMP.,M. CAELIO AEDILI CVRVLI,,,Scr. Sidae iii aut prid. Non. Sext. a. 704 (50).
+ad_familiares,2,16,M. CICERO IMP.,M. CAELIO,,,Scr. in Cumano iv Non. Mai. a. 705 (49).
+ad_familiares,2,17,M. CICERO IMR,†CANINI SALVSTIO PROQ,,,"Scr. Tarsi a. d. xvi K. Sext. , vel paulo post a. 704 (50)."
+ad_familiares,2,18,M. CICERO IMP.,Q THERMO PROPR,-0050,-50.0,Scr. Laudiceae in. m. Maio a. 704 (50) .
+ad_familiares,2,19,M. TVLLIVS M. F. M. N. CICERO IMP.,C. COELIO L. F. C. N. CALDO Q,,,Scr. in castris in Cilicia a. d. x K. Quint. a. 704 (50).
+ad_familiares,3,1,CICERO APPIO IMP.,,-0053,-53.0,Scr. Romae vel ex. a. 701 (53) vel in. 702 (52).
+ad_familiares,3,2,M. CICERO PROCOS.,APPIO PVLCHRO IMP,-0051,-51.0,Scr. Romae circ. m. Mart. a. 703 (51) .
+ad_familiares,3,3,CICERO,APPIO PVLCHRO,-0051,-51.0,Scr. Brundisii ex. mense Maio a. 703 (51) .
+ad_familiares,3,4,CICERO,AP. PVLCHRO,-0051,-51.0,Scr. Brundisi prid. Non. aut ipsis Non. Iun. a. 703 (51) .
+ad_familiares,3,5,CICERO,APPIO PVLCHRO,,,Scr. Trallibus a. d. vi K. Sext. a. 703 (51).
+ad_familiares,3,6,M. CICERO,APPIO PVLCHRO,,,Scr. in castris prid. K. Sept. a. 703 (51).
+ad_familiares,3,7,CICERO,APPIO PVLCHRO,-0050,-50.0,Scr. Laudiceae circiter Id. Febr. a. 704 (50) .
+ad_familiares,3,8,CICERO,APPIO PVLCHRO,,,Scr. in castris in agro Mopsuhestiae a. d. viii Id. Oct. a. 703 (51).
+ad_familiares,3,9,CICERO,APPIO,,,Scr. Laudiceae paulo post x K. Mart. a. 704 (50).
+ad_familiares,3,10,CICERO,APPIO,-0050,-50.0,Scr. Laudiceae m. April a. 704 (50) .
+ad_familiares,3,11,"CICERO APPIO PVLCHRO VT SPERO, CENSORI",,-0050,-50.0,Scr. in castris ad Pyramum post Id. Iun. 704 (50) .
+ad_familiares,3,12,CICERO,APPIO,,,Scr. Sidae a. d. iii aut prid. Non. Sext. a. 704 (50).
+ad_familiares,3,13,CICERO,APPIO,,,Scr. Rhodi circ. iv Id. Sext. a. 704 (50).
+ad_familiares,4,1,M. CICERO,SER. SVLPICIO,-0049,-49.0,Scr. in Laterio aut Arcano Q. Ciceronis circ. Non. Apr. a. 705 (49) .
+ad_familiares,4,2,M. CICERO,SER. SVLPICIO,,,Scr. in Cumano a. d. iv K. Mai. a. 705 (49).
+ad_familiares,4,3,M. CICERO,SER. SVLPICIO,-0046,-46.0,Scr. Romae ante vi K. intercal. priores a. 708 (46) .
+ad_familiares,4,4,M. CICERO,SER. SVLPICIO,-0046,-46.0,Scr. Romae ex. m. Sept. aut in. Oct. a. 708 (46) .
+ad_familiares,4,5,SERVIVS,CICERONI,-0045,-45.0,Scr. Athenis circ. medio m. Mart. a. 709 (45) .
+ad_familiares,4,6,M. CICERO,SER. SVLPICIO,-0045,-45.0,Scr. in Attici Ficuleano medio m. Apr. a. 709 (45) .
+ad_familiares,4,7,M. CICERO,M. MARCELLO,-0046,-46.0,Scr. Romae post Id. Sext. a. 708 (46) .
+ad_familiares,4,8,CICERO,M. MARCELLO,-0046,-46.0,Scr. Romae in m. Sext. a. 708 (46) .
+ad_familiares,4,9,M. CICERO,M. MARCELLO,-0046,-46.0,Scr. Romae post Id. Sext. a. 708 (46) .
+ad_familiares,4,10,CICERO,MARCELLO,-0046,-46.0,Scr. Romae in m. Nov. a. 708 (46) .
+ad_familiares,4,11,MARCELLVS,CICERONI,-0046,-46.0,Scr. Mytilenis m. Oct. a. 708 (46) .
+ad_familiares,4,12,SERVIVS,CICERONI,,,Scr. Athenis pr. K. Iunias a. 709 (45).
+ad_familiares,4,13,M. CICERO,P. FIGVLO,-0046,-46.0,Scr. Romae ui. in. Sext. a. 708 (46) .
+ad_familiares,4,14,M. CICERO,CN. PLANCIO,-0046,-46.0,Scr. Romae in. a. 708 (46) .
+ad_familiares,4,15,M. CICERO,CN. PLANCIO,-0046,-46.0,Scr. Romae paulo post ep. xiv a. 708 (46) .
+ad_familiares,5,1,Q. METELLVS Q. F. CELER PROCOS.,M. TVLLIO CICERONI,-0062,-62.0,Scr. in Gallia m. Ian. a. 692 (62) .
+ad_familiares,5,2,M. TVLLIVS M. F. CICERO Q. METELLO Q. F. CELERI PROCOS.,,-0062,-62.0,Scr. Romae vel ex. m. Ian. vel in. Febr. a. 692 (62) .
+ad_familiares,5,3,Q. METELLVS NEPOS,M. CICERONI,-0056,-56.0,Scr. in Hispania cit a. 698 (56) .
+ad_familiares,5,4,M. CICERO,Q. METELLO COS,-0057,-57.0,Scr. Dyrrhachi circ. m. Apr. a. 697 (57) .
+ad_familiares,5,5,M. CICERO,C. ANTONIO M. F. IMP,-0062,-62.0,Scr. Romae ex m. Nov. aut in. Dec. a. 692 (62) .
+ad_familiares,5,6,M. CICERO,P. SESTIO L. F. PROQ,-0062,-62.0,Scr. Romae circ. Id. Dec. a. 692 (62)
+ad_familiares,5,7,M. TVLLIVS M. F. CICERO,CN. POMPEIO CN. fl MAGNO IMPERATORI,-0062,-62.0,Scr. Romae m. Apr. a. 692 (62) .
+ad_familiares,5,8,M.,CICERO,-0054,-54.0,Scr. Romae m. Ian. a. 700 (54) .
+ad_familiares,5,9,VATINIVS,IMP.,,,Scr. in castri; Naronae a. d. v Id. Quint. a. 709 (45).
+ad_familiares,5,10a,VATINIVS,CICERONI,-0044,-44.0,Scr. Naronae m. Ian. a. 710 (44) ..
+ad_familiares,5,10b,VATINIVS,CICERONI,-0045,-45.0,Scr. Naronae Non. Dec. a. 709 (45) .
+ad_familiares,5,11,M.,CICERO,-0045,-45.0,Scr. Romae ex. m. Oct. a. 709 (45) .
+ad_familiares,5,12,M. CICERO,L. LVCCEIO Q. F,-0056,-56.0,"Scr. Ante ut videtur, m. Iun. a. 698 (56) ."
+ad_familiares,5,13,M. CICERO,L. LVCCEIO Q. F,-0045,-45.0,Scr. Asturae aut in Attici Ficuleano m. Mart. aut Apr. a. 709 (45) .
+ad_familiares,5,14,L. LVCCEIVS Q. F.,M. TVLLIO M. F,-0045,-45.0,Scr. Romae vii. Id. Mai. a. 709 (45) .
+ad_familiares,5,15,M. CICERO,L. LVCCEIO Q. F,-0045,-45.0,Scr. Asturae paucis diebus post ep. xiv a. 709 (45) .
+ad_familiares,5,16,M. CICERO,TITIO,-0052,-52.0,"Scr.. Romae, ut videtur, circ. m. Mart. a. 702 (52) ."
+ad_familiares,5,17,M. CICERO,P. SITTIO P. F,-0057,-57.0,Scr. Romae a. 697 (57) .
+ad_familiares,5,18,M. CICERO,T. FADIO,,,Scr. Romae post med. m. Mart. a. 702 (£2).
+ad_familiares,5,19,CICERO,RVFO.,,,Scr. in Cumano circ. iv K. Mai. a. 705 (49).
+ad_familiares,5,20,CICERO,RVFO.,,,Scr. ad urbem paulo post prid. Non. Ian. a. 705 (49).
+ad_familiares,5,21,M. CICERO,L. MESCINIO,-0046,-46.0,Scr. Romae in. aut med. m. April. a. 708 (46) .
+ad_familiares,6,1,M. CICERO,A. TORQVATO,-0046,-46.0,Scr. Romae ex. m. intercal. post. a. 708 (46) .
+ad_familiares,6,2,M. CICERO,A. TORQVATO,,,Scr. in Attici Ficuleano ante xii K. Mai. a. 709 (45).
+ad_familiares,6,3,M. CICERO,A. TORQVATO,-0045,-45.0,Scr. Romae in. m. Ian. a. 709 (45) .
+ad_familiares,6,4,M. CICERO,A. TORQVATO,-0045,-45.0,Scr. Romae ante med. m. Ian. a. 709 (45) .
+ad_familiares,6,5,M. CICERO,A. CAECINAE,-0046,-46.0,Scr. Romae ex. m. Dec. a. 708 (46) .
+ad_familiares,6,6,M. CICERO,A. CAECINAE,-0046,-46.0,Scr. Romae circ. K. Oct. a. 708 (46) .
+ad_familiares,6,7,CAECINA,CICERONI,-0046,-46.0,Scr. in Sicilia med. m. Dec. 708 (46) .
+ad_familiares,6,8,CICERO,CAECINAE.,-0046,-46.0,Scr. Romae in. m. Dec. a. 708 (46) .
+ad_familiares,6,9,M.,CICERO,-0046,-46.0,Scr. Romae ica. in. Dee. a. 708 (46) .
+ad_familiares,6,10,M.,CICERO,-0046,-46.0,Scr. Romae circ. m. Sext. a. 708 (46) .
+ad_familiares,6,11,M. CICERO,TREBIANO,-0045,-45.0,Scr. in Tusculano in. m. Iun. a. 709 (45) .
+ad_familiares,6,12,CICERO,AMPIO,-0046,-46.0,Scr. Romae ex. m. Nov. a. 708 (46) .
+ad_familiares,6,13,CICERO,LIGARIO.,-0046,-46.0,Scr. Romae in. m. Sext. a. 708 (46) .
+ad_familiares,6,14,CICERO,LIGARIO.,-0046,-46.0,Scr. Romae a. d. v K. intercal. priores a. 708 (46) .
+ad_familiares,6,15,CICERO,BASILO,-0044,-44.0,Scr. Romae Id. Mart. a. 710 (44) .
+ad_familiares,6,16,BITHYNICVS,CICERONI,-0044,-44.0,Scr. in Sicilia ex. m. Mart. a. 710 (44) .
+ad_familiares,6,17,CICERO,BITHYNICO.,-0044,-44.0,Scr. in Latio med. m. Apr. a. 720 (44) .
+ad_familiares,6,18,CICERO,LEPTAE.,-0045,-45.0,Scr. Romae ex. m. Ian. a. 709 (45) .
+ad_familiares,6,19,CICERO,LEPTAE.,-0045,-45.0,Scr. Asturae ex. m. Sext. a. 709 (45) .
+ad_familiares,6,20,CICERO,TORANIO,-0045,-45.0,Scr. Asturae ex. m. Quint. a. 709 (45) .
+ad_familiares,6,21,CICERO,TORANIO.,-0045,-45.0,Scr. Romae circ. m. Apr. a. 709 (45) .
+ad_familiares,6,22,CICERO,DOMITIO.,-0046,-46.0,Scr. Romae m. Maio a. 708 (46) .
+ad_familiares,7,1,M. CICERO,M. MARIO,-0055,-55.0,Scr. Romae m. Oct. a. 699 (55) .
+ad_familiares,7,2,M. CICERO,M. MARIO,-0051,-51.0,Scr. Romae circ. id. m. Febr. 703 (51) .
+ad_familiares,7,3,M. CICERO,M. MARIO,-0056,-56.0,Scr. Romae ante K. Sept. a. 708 (56) .
+ad_familiares,7,4,M. CICERO,M. MARIO,-0046,-46.0,Scr. in Cumano m. intercal. post a. 708 (46) .
+ad_familiares,7,5,CICERO CAESARI IMP.,,-0054,-54.0,Scr. Romae m. Apr. 0. 700 (54) .
+ad_familiares,7,6,CICERO,TREBATIO,-0054,-54.0,Scr. ui Cumano aut Pompeiano m. Mai. a. 700 (54) .
+ad_familiares,7,7,CICERO,TREBATIO.,-0054,-54.0,Scr. Romae ex. m. Iun. a. 700 (54) .
+ad_familiares,7,8,CICERO,TREBATIO.,-0054,-54.0,Scr. Romae ex. tu. Quint. a. 700 (54) .
+ad_familiares,7,9,CICERO,TREBATIO.,-0054,-54.0,Scr. Romae ex. m. Sept. a. 700 (54) .
+ad_familiares,7,10,M. CICERO,TREBATIO,-0054,-54.0,Scr. Romae ex. m. Dec. a. 700 (54) .
+ad_familiares,7,11,CICERO,TREBATIO.,-0053,-53.0,Scr. fort. in Tusculano (?) m. Ian. a. 701 (53) .
+ad_familiares,7,12,CICERO,TREBATIO.,-0053,-53.0,Scr. Romae in. Febr. a. 701 (53) .
+ad_familiares,7,13,M. CICERO,TREBATIO,,,Scr. Romae iv Non. Mart. a. 701 (53).
+ad_familiares,7,14,CICERO,TREBATIO.,-0053,-53.0,Scr. Romae circ. m. Quint. a. 701 (53) .
+ad_familiares,7,15,CICERO,TREBATIO.,-0053,-53.0,Scr. Romae m. Iun. a. 701 (53) .
+ad_familiares,7,16,M. CICERO,TREBATIO,-0054,-54.0,Scr. Romae ex. m. Nov. a. 700 (54) .
+ad_familiares,7,17,CICERO,TREBATIO,-0054,-54.0,Scr. Romae ex. m. Od. a. 700 (54) .
+ad_familiares,7,18,CICERO,TREBATIO,,,Scr. in Pomptino vi Id. Apr. a. 701 (53).
+ad_familiares,7,19,CICERO,TREBATIO,,,Scr. Reg iv K. Sext. u. 710 (44).
+ad_familiares,7,20,CICERO,TREBATIO,,,Scr. Veliae xiii K. Sext. a. 710 (44).
+ad_familiares,7,21,CICERO,TREBATIO,-0044,-44.0,Scr. in Tusculano ex. m. Iun. a. 710 (44) .
+ad_familiares,7,22,CICERO,TREBATIO,-0044,-44.0,"Scr. in Tusculano m. Iun. ut videtur, a. 710 (44) ."
+ad_familiares,7,23,CICERO,M. FADIO GALLO,-0062,-62.0,"Scr. Romae ex. a. 692 (62) aut paulo post, ut videtur."
+ad_familiares,7,24,M. CICERO,M. FADIO GALLO,,,Scr. in Tusculano circa xiii K. Sept. a. 709 (45).
+ad_familiares,7,25,CICERO,M. FADIO GALLO,,,Scr. in Tusculano circ. ix K. Sept. a. 709 (45).
+ad_familiares,7,26,CICERO,GALLO,-0046,-46.0,Scr. in Tusculano m. interc. post a. 708 (46) .
+ad_familiares,7,27,M. CICERO,GALLO,-0052,-52.0,"Scr. Romae, ut videtur, post m. Mart. a. 702 (52) ."
+ad_familiares,7,28,M. CICERO,CVRIO,-0046,-46.0,Scr. Romae in. m. Sext. a. 708 (46)
+ad_familiares,7,29,CVRIVS,M.,,,Scr. Patris a. d. iiii K. Nov. a. 709 (45).
+ad_familiares,7,30,CICERO CVRIO,,-0044,-44.0,Scr. Romae in. m. Ian. a. 710 (44)
+ad_familiares,7,31,CICERO CVRIO,,-0044,-44.0,Scr. Romae ut Febr. a. 710 (44) . 5
+ad_familiares,7,32,M. CICERO,VOLVMINO,,,Scr. Laudiceae post iii Id. Febr. a. 704 (50).
+ad_familiares,7,33,M. CICERO,VOLVMNIO,-0046,-46.0,Scr. in Tusculano circ. med. m. Quint. a. 708 (46)
+ad_familiares,8,1,CAELIVS,CICERONI,,,Scr. Romae ix K. Iun. aut paulo post a. 703 (51).
+ad_familiares,8,2,CAELIVS,CICERONI,-0051,-51.0,Scr. Romae m. lusi. a. 703 (51) .
+ad_familiares,8,3,CAELIVS,CICERONI,,,Scr. Romae circ. iv Id. Iun. a. 703 (51).
+ad_familiares,8,4,CAELIVS,CICERONI,-0051,-51.0,Scr. Romae K. Sext. a. 703 (51) .
+ad_familiares,8,5,CAELIVS,CICERONI,-0051,-51.0,Scr. Romae ante Id. Sext. a. 703 (51) .
+ad_familiares,8,6,CAELIVS,CICERONI,-0050,-50.0,Scr. Romae ante ex. m. Febr. a. 704 (50) .
+ad_familiares,8,7,CAELIVS,CICERONI,-0050,-50.0,Scr. Romae ex. m. Apr. aut in. Mai. a. 704 (50) .
+ad_familiares,8,8,CAELIVS,CICERONI,-0051,-51.0,Scr. Romae in. m. Oct. a. 703 (51) .
+ad_familiares,8,9,CAELIVS,CICERONI,,,Scr. Romae iv Non. Sept. a. 703 (51).
+ad_familiares,8,10,CAELIVS,CICERONI,,,Scr. Romae x iiii K. Dec. a. 703 (51).
+ad_familiares,8,11,CAELIVS,CICERONI,-0050,-50.0,Scr. Romae ex. m. Apr. aut in. Mai. a. 704 (50) .
+ad_familiares,8,12,CAELIVS,CICERONI,-0050,-50.0,Scr. Romae circ. xii K. Oct. a. 704 (50) .
+ad_familiares,8,13,CAELIVS,CICERONI,-0050,-50.0,Scr. Romae ex. m. Mai. aut in. Iun. a. 704 (50) .
+ad_familiares,8,14,CAELIVS,CICERONI,,,Scr. Romae circ. viii K. Oct. a. 704 (50).
+ad_familiares,8,15,CAELIV5,CICERONI,,,Scr. circ. vii Id. Mart. a. 705 (49).
+ad_familiares,8,16,CAELIVS,CICERONI,,,Scr. Intimili xvi K. Mai. a. 705 (49).
+ad_familiares,8,17,CAELIVS,CICERONI,-0048,-48.0,Scr. Romae vel ex. m. Ian. vel m. Febr. a. 706 (48) .
+ad_familiares,9,1,CICERO,M.,-0047,-47.0,Scr. Romae ex. a. 707 (47) aut in. a. 708 (46).
+ad_familiares,9,2,CICERO,VARRONI,,,Scr. Romae paulo post xii K. Mai. a. 708 (46).
+ad_familiares,9,3,CICERO,VARRONI,,,Scr. Romae paulo ante ep. 2.
+ad_familiares,9,4,CICERO,VARRONI,,,Scr. in Tusculano inter viii et iv Id. Iun. a. 708 (46).
+ad_familiares,9,5,CICERO,VARRONI,-0046,-46.0,Scr. Romae in. m. Iun. a. 708 (46) .
+ad_familiares,9,6,CICERO,VARRONI,,,Scr. Romae inter xii et vii K. Quint. a. 708 (46).
+ad_familiares,9,7,CICERO,VARRONI,-0046,-46.0,Scr. Romae ex. m. Maio a. 708 (46) .
+ad_familiares,9,8,CICERO,VARRONI,,,Scr. in Tusculano v aut iv Id. Quint. a. 709 (45).
+ad_familiares,9,9,DOLABELLA,CICERONI,-0048,-48.0,Scr. in castris Caesaris circ. in. m. Iun. a. 706 (48) .
+ad_familiares,9,10,M. CICERO,P. DOLABELLAE,,,Scr. Romae ex. a. 708 (46) paulo ante iii K. Ian.
+ad_familiares,9,11,CICERO,DOLABELLAE,,,Scr. in Attici Ficuleano paulo post xii K. Mai. a. 709 (45).
+ad_familiares,9,12,CICERO,DOLABELLAE.,-0045,-45.0,Scr. in Cumano mcd. m. Dcc. a. 709 (45) .
+ad_familiares,9,13,CICERO,DOLABELLAE,-0046,-46.0,Scr. Romae ex. a. 708 (46) aut in. a. 709 (45).
+ad_familiares,9,14,CICERO,DOLABELLAE,,,Scr. in Pompeiano v Non. Mai. a. 710 (44).
+ad_familiares,9,15,CICERO,PAETO,-0046,-46.0,Scr. Romae in. interc. priore a. 708 (46) .
+ad_familiares,9,16,CICERO,PAPIRIO,-0046,-46.0,Scr. in Tusculano non post med. m. Quint. a. 708 (46) .
+ad_familiares,9,17,CICERO,L.,-0046,-46.0,Scr. Romae post Id. Sext. a. 708 (46) .
+ad_familiares,9,18,CICERO,L. PAPIRIQ PAETO,,,Scr. in Tusculano circ. xiii K. Sext. a. 708 (46).
+ad_familiares,9,19,CICERO,LL. PAPIRIO PAETO,-0046,-46.0,Scr. Romae post Id. Sext. a. 708 (46) .
+ad_familiares,9,20,CICERO,PAETO.,-0046,-46.0,Scr. Romae in m. Sext. a. 708 (46) .
+ad_familiares,9,21,CICERO,PAETO,-0046,-46.0,"Scr. ut videtur, circ. m. intercal. pr. a. 708 (46) ."
+ad_familiares,9,22,CICERO,PAETO.,-0045,-45.0,Scr. fort. in Tusculano m. Iun. aut Quint. a. 709 (45) .
+ad_familiares,9,23,CICERO,PAETO.,-0046,-46.0,Scr. in Cumano m. interc. post a. 708 (46) .
+ad_familiares,9,24,CICERO PAETO,,-0043,-43.0,Scr. Romae ante mcd. m. Febr. a. 711 (43) .
+ad_familiares,9,25,CICERO,IMR,,,Scr. Laudiceae post iii Id. Febr. ; a. 704 Qo).
+ad_familiares,9,26,CICERO PAETO,,-0046,-46.0,Scr. Romae ex. m. interc. pr. aut in. post a. 708 (46) .
+ad_familiares,10,1,CICERO,PLANCO.,,,Scr. Romae paulo post xiii K. Oct. a. 710 (44).
+ad_familiares,10,2,CICERO,PLANCO,,,Scr. Romae inter xiii K. et iii Non. Oct. a. 710 (44).
+ad_familiares,10,3,CICERO,PLANCO,,,Scr. Romae paulo post iv Id. Dec. a. 710 (44).
+ad_familiares,10,4,PLANCVS,CICERONI,-0044,-44.0,Scr. in Gallia Transalpina ex. m. Dec. a. 710 (44) .
+ad_familiares,10,5,CICERO,PLANCO,-0044,-44.0,Scr. Romae med. m. Dec. a. 710 (44) .
+ad_familiares,10,6,CICERO,PLANCO.,,,Scr. Romae xiii K. Apr. vesperia. 711 (43).
+ad_familiares,10,7,PLANCVS,CICERONI,-0043,-43.0,Scr. in Gallia Transalpina paulo post med. m. Mart. a. 711 (43) .
+ad_familiares,10,8,PLANCVS IMR COS. DESIG.,COS. PR. TR. PL. SENATVI POPVLO PLEBIQVE ROMANAE,-0043,-43.0,Scr. in Gallia Transalpina paulo post med. Mart. a. 711 (43) .
+ad_familiares,10,9,PLANCVS,CICERONI,,,Scr. in Gallia Narbonensi vi aut v K. Mai. a. 711 (43).
+ad_familiares,10,10,CICERO,PLANCO.,,,Scr. Romae iii K. Apr. a. 711 (43).
+ad_familiares,10,11,PLANCVS,CICERONI,-0043,-43.0,Scr. in Allobrogibus ex. m. Apr. a. 711 (43) .
+ad_familiares,10,12,CICERO,PLANCO.,,,Scr. Romae iii Id. Apr. a. 711 (43).
+ad_familiares,10,13,CICERO,PLANCO.,,,Scr. Romae circ. v Id. Mai. a. 711 (43).
+ad_familiares,10,14,CICERO,PLANCO,,,Scr. Romae iii Non. Mai. a. 711 (43).
+ad_familiares,10,15,PLANCVS,CICERONI,-0043,-43.0,Scr. in Gallia Narbonensis cis Isaram circ. iii id. Mai. a. 711 (43) .
+ad_familiares,10,16,CICERO,PLANCO.,-0043,-43.0,Scr. Romae ctrc. ex. m. Mai. a. 711 (43) .
+ad_familiares,10,17,PLANCVS,CICERONI,,,"Scr. in itinere ad Lepidum xiv aut x iiii K. Iun. , a. 711 (43)."
+ad_familiares,10,18,PLANCVS,CICERONI,,,Scr. in castris ex itiitere ab Isara Forum Voconi xv K. Iun. a. 711 (43).
+ad_familiares,10,19,CICERO,PLANCO.,,,Scr. Romae circ. vii K. Iun. a. 711 (43).
+ad_familiares,10,20,CICERO,PLANCO,,,Scr. Romae iv K. Iun. a. 711 (43).
+ad_familiares,10,21,PLANCVS,CICERONI,-0043,-43.0,Scr. in castris pnd. Id. Mai. a. 711 (43) .
+ad_familiares,10,21a,PLANCVS,CICERONI.,,,Scr. ex itinere ad Isaram paulo post ep. xxi.
+ad_familiares,10,22,CICERO,PLANCO.,,,Scr. Romae inter viii et iii K. Quint. a. 711 (43).
+ad_familiares,10,23,PLANCVS,CICERONI,,,Scr. Cularone in finibus Allobrogum viii Id. Iun. a. 711 (43).
+ad_familiares,10,24,PLANCVS IMR COS. DES.,CICERONI,,,Scr. in castris v K. Sext. a. 711 (43).
+ad_familiares,10,25,CICERO,FVRNIO,,,Scr. Romae circ. vii K. Iun. a. 711 (43).
+ad_familiares,10,26,M. CICERO,C. FVRNIO,,,Scr. Romae inter viii et iii K. Quint. a. 711 (43).
+ad_familiares,10,27,CICERO,LEPIDO,,,Scr. Romae xiii K. Apr. vesperi a. 711 (43).
+ad_familiares,10,28,CICERO,TREBONIO,,,Scr. Romae circ. iv Non. Febr. a. 711 (43).
+ad_familiares,10,29,CICERO,APPIO,,,Scr. Romae prid. Non. Quint. a. 711 (43).
+ad_familiares,10,30,GALBA,CICERONI,,,Scr. in castris ad Mutinam a. d. xvii K. Mai. a. 711 (43).
+ad_familiares,10,31,C. ASINIVS POLLIO CICERONI,,,,Scr. Cordubae xvii K. Apr. a. 711 (43).
+ad_familiares,10,32,C.,ASINIVS,,,Scr. Cordubae vi Id. Iun. a. 711 (43).
+ad_familiares,10,33,POLLIO,CICERONI,-0043,-43.0,Scr. Cordubae vel ex. m. Maio vel in. Iun. a. 711 (43) .
+ad_familiares,10,34,LEPIDVS IMP. ITER. PONL MAX.,M. TVLLIO CICERONI,,,Scr. in castris ad Pontem Argenteum circ. xv K. Iun. a. 711 (43).
+ad_familiares,10,34a,LEPIDVS,CICERONI,,,Scr. ibidem xi K. Iun. a. 711 (43).
+ad_familiares,10,35,M. LEPIDVS IMP. ITER. PONT. MAX.,PR. TR. PL. SENATVI POPVLO PLEBIQVE ROMANAE,,,Scr. in Ponte Argenteo iii K. Iun. a. 711 (43).
+ad_familiares,11,1,D.,BRVTVS,,,Scr. Romae xvii K. Apr. a. 710 (44).
+ad_familiares,11,2,BRVTVS,ET,-0044,-44.0,Scr. Lanuvi ex. m. Mai. a. 710 (44) .
+ad_familiares,11,3,BRVTVS ET CASSIVS PR.,ANTONIO COS,,,Scr. Neapoli prid. Non. Sext. a. 710 (44).
+ad_familiares,11,4,D. BRVTVS IMP. COS. DESIG.,CICERONI,-0044,-44.0,Scr. in Gallia citeriore inter med. m. Oct. et ex Nov. a. 710 (44) .
+ad_familiares,11,5,M. CICERO,D. BRVTO IMP. COS. DESIG,,,Scr. Romae paulo post v Id. Dec. a. 710 (44).
+ad_familiares,11,6,M. CICERO,D. BRVTO IMP. COS. DESIG,,,Scr. Romae xiii K. Ian. a. 71O (44).
+ad_familiares,11,7,M. CICERO,D. BRVTO IMP. COS. DESIG,,,"Scr. Romae xiii K. bu a. 710 (44),."
+ad_familiares,11,8,M. CICERO,D. BRVTO IMP. COS. DESIG,,,Scr. Romae circ. ix K. Febr. a. 711 (4;).
+ad_familiares,11,9,D. BRVTVS,M. CICERONI,,,Scr. in castris Regi iii K. Mai. a. 711 (43).
+ad_familiares,11,10,D. BRVTVS,M. CICERONI,,,Scr. hi castris Dertonae iii Non. Mai. a. 711 (43).
+ad_familiares,11,11,D. BRVTVS IMR COS. DES.,M. CICERONI,,,Scr. in castris in finibus Statiellensium prid. Non. Mai. a. 711 (43).
+ad_familiares,11,12,M. CICERO,D. BRVTO IMP. COS. DES,,,Scr. Romae circ. iii Id. Mai. a. 711 (43).
+ad_familiares,11,13,D. BRVTVS IMR COS. DES.,M. CICERONI,,,Scr. in castris Pollentiae chr. iv Id. Mai. a. 711 (43).
+ad_familiares,11,13a,PLANCVS,ET,,,Scr. Cularone in Allobrogibus circ. iv Id. Iun. a. 711 (43).
+ad_familiares,11,13b,D. BRVTVS COS. DESIG. M. CICERONI,,-0043,-43.0,Scr. in castris Parmae ex. m. Apr. a. 711 (43) .
+ad_familiares,11,14,M. CICERO D. BRVTO COS. DESIG.,,-0043,-43.0,Scr. Romae iv Kal. Iun. a. 711 (43) .
+ad_familiares,11,15,M. CICERO D. BRVTO COS. DES.,,,,Scr. Romae inter viii et iii K. Quint. a. 711 (43).
+ad_familiares,11,16,M. CICERO D. BRVTO COS. DES.,,-0043,-43.0,Scr. Romae inter ex. m. Apr. et in. Quint. a. 711 (43) .
+ad_familiares,11,17,M. CICERO D. BRVTO,,,,Scr. ibidem eodem tempore quo ep. 16.
+ad_familiares,11,18,M. CICERO,D. BRVTO IMP. COS. DESIG,,,Scr. Romae x iiii K. Iun. a. 711 (43).
+ad_familiares,11,19,D. BRVTVS IMP. COS. DESIG.,M. CICERONI,,,Scr. Vercellis xii K. Iun. a. 711 (43).
+ad_familiares,11,20,D. BRVTVS,M. CICERONI,,,Scr. Eporediae ix K. Iun. a. 711 (43).
+ad_familiares,11,21,M. CICERO,D. BRVTO IMR COS. DESIG,,,Scr. Romae prid. Non. Iun. a. 711 (43).
+ad_familiares,11,22,M. CICERO,D. BRVTO,,,Scr. Romae cire. prid. Id. Quint. a. 711 (43).
+ad_familiares,11,23,D. BRVTVS,M. CICERONI,,,Scr. Eporediae viii K. Iun. a. 711 (43).
+ad_familiares,11,24,M. CICERO,D. BRUTO IMP. COS. DESIG,,,Scr. Romae viii Id. Iun. a. 711 (43).
+ad_familiares,11,25,M. CICERO,D. BRVTO,,,Scr. Romae xiv K. Quint. a. 711 (43).
+ad_familiares,11,26,D. BRVTVS,M. CICERONI,,,Scr. in castris in itinere Cularonem iii Non. Iun. a. 711 (43).
+ad_familiares,11,27,M.,CICERO,,,Scr. in Tusculano inter x et iii K. Sept. a. 710 (44).
+ad_familiares,11,28,MATIVS,CICERONI,,,Scr. Romae paulo post ep. 27.
+ad_familiares,11,29,CICERO OPPIO,,,,Scr. vel ex. m. Iun. vel in. Quint. a. 710(44). .
+ad_familiares,12,1,CICERO,CASSIO,,,Scr. in Pompeiano v Non. Mai. a. 710 (44).
+ad_familiares,12,2,CICERO,CASSIO,,,Scr. Romae inter xiii K. et iii Non. Oct. a. 710 (44).
+ad_familiares,12,3,CICERO,CASSIO,,,Scr. Romae inter vi et prid. Non. Oct. a. 710 (44).
+ad_familiares,12,4,CICERO,CASSIO,-0043,-43.0,Scr. Romae circ. K. Febr. a. 711 (43) .
+ad_familiares,12,5,CICERO,CASSIO,-0043,-43.0,Scr. Romae circ. Non. Febr. a. 711 (43) .
+ad_familiares,12,6,CICERO,CASSIO,,,Scr. Romae inter ex. m. Mart. et vii Id. Apr. a. 711 (43).
+ad_familiares,12,7,CICERO,CASSIO,-0043,-43.0,"Scr. Romae circ. Non, Mart. a. 711 (43) ."
+ad_familiares,12,8,CICERO,CASSIO,,,Scr. Romae v Id. Iun. aut paulo post a. 711 (43).
+ad_familiares,12,9,CICERO,CASSIO,,,Scr. Romae inter xvi et iii K. Quint. a. 711 (43).
+ad_familiares,12,10,CICERO,CASSIO,-0043,-43.0,Scr. Romae circ. K. Quint. a. 711 (43) .
+ad_familiares,12,11,C. CASSIVS PROCOS.,M. CICERONI,-0043,-43.0,Scr. in castris Tadolicis Non. Mart. a. 711 (43) .
+ad_familiares,12,12,CASSIVS PROCOS.,M. CICERONI SV0,-0043,-43.0,Scr. in castris in Syria Non. Mai. a. 711 (43) .
+ad_familiares,12,13,C. CASSIVS Q.,M. CICERONI,-0043,-43.0,Scr. in Cypro Crommyuacride Id. Iun. a. 711 (43) .
+ad_familiares,12,14,LENTVLVS,CICERONI,,,Scr. Pergae iiii K. Iun. a. 711 (43).
+ad_familiares,12,15,P. LENTVLVS P. F. PROQ. PROPR.,COSS. PR. TR. PL. SENATVI POPVLO PLEBIQVE ROMANAE,,,"Scr. Pergae 1-6 §§ iiii K., § 7 iiii Non. Iun. a. 711 (43)."
+ad_familiares,12,16,TREBONIVS,CICERONI,,,Scr. Athenis viii K. Iun. a. 710 (44).
+ad_familiares,12,17,CICERO,CORNIFICIO CONLEGAE,-0046,-46.0,Scr. Romae circ. med. in Sept. a. 708 (46) .
+ad_familiares,12,18,CICERO,CORNIFICIO CONLEGAE,-0046,-46.0,Scr. Romae vel ex. m. Sept. vel in. Oct. a. 708 (46) .
+ad_familiares,12,19,CICERO,CORNIFICIO,-0046,-46.0,Scr. Romae m. Dec. a. 708 (46) .
+ad_familiares,12,20,CICERO,CORNIFICIO,,,Scr. Romae iv Non. Sept. a. 710 (44).
+ad_familiares,12,21,CICERO,CORNIFICIO,-0044,-44.0,Scr. Romae mense incerto a. 710 (44) .
+ad_familiares,12,22,CICERO,CORNIFICIO,,,Scr. Romae post xiii K. Oct. a. 710 (44).
+ad_familiares,12,22a,CICERO,CORNIFICIO,,,Scr. Romae a. 710 (44) paulo post xiii K. Ian.
+ad_familiares,12,23,CICERO,CORNIFICIO,-0044,-44.0,Scr. Romae paulo post vii id. Oct. a. 710 (44) .
+ad_familiares,12,24,CICERO,CORNIFICIO,,,Scr. Romae circ. ix K. Febr. a. 711 (43).
+ad_familiares,12,25,CICERO,CORNIFICIO,,,Scr. Romae xiv K. Apr. a. 711 (43).
+ad_familiares,12,25a,CICERO,CORNIFICIO,-0043,-43.0,Scr. Romae cire. In. m. Mai. a. 711 (43) .
+ad_familiares,12,26,CICERO,COR,-0043,-43.0,Scr. Romae vere a. 711 (43) .
+ad_familiares,12,27,CICERO,CORNIFICIO,-0043,-43.0,Scr. Romae vere a. 711 (43) .
+ad_familiares,12,28,CICERO,CORNIFICIO,,,Scr. Romae paulo post xiii K. April. a. 711 (43).
+ad_familiares,12,29,CICERO,CORNIFICIO,-0043,-43.0,Scr. Romae vere a. 711 (43) .
+ad_familiares,12,30,CICERO,CORNIFICIO,,,Scr. Romae paulo post v Id. Iun. a. 711 (43).
+ad_familiares,13,1,M. CICERO,C. MEMMIO,,,Scr. Athenis inter vii K. et prid. Non. Quint. a. 703 (51).
+ad_familiares,13,2,CICERO,MEMMIO,-0052,-52.0,"Scr. Romae, ut videtur, m. Apr. aut paulo post a. 702 (52) ."
+ad_familiares,13,3,CICERO,MEMMIO,-0052,-52.0,"Scr. Romae, ut videtur, post m. Apr. 702 (52) aut in. a. 703 (51)."
+ad_familiares,13,4,M. CICERO,Q. VALERIO Q. F. ORCAE LEGATO PROPR,-0045,-45.0,Scr. Romae non ante med. m. Oct. a. 709 (45) .
+ad_familiares,13,5,CICERO,Q. VALERIO LEG. PROPR,-0045,-45.0,Scr. Romae non ante med. m. Oct. a. 709 (45) .
+ad_familiares,13,6,M.,CICERO,-0056,-56.0,Scr. Romae pos! med. a. 698 (56) .
+ad_familiares,13,6a,M.,CICERO,,,Scr. ibid. cod. fere tempore.
+ad_familiares,13,7,CICERO,CLVVIO,-0045,-45.0,Scr. Romae non ante mcd. m. Oct. a. 709 (45) . .
+ad_familiares,13,8,M.,CICERO,-0045,-45.0,Scr. Romae non ante med. m. Oct. a. 709 (45) .
+ad_familiares,13,9,CICERO,CRASSIPEDI,-0050,-50.0,"Scr., ut videtur, Tarsi vel ex. a. 703 (5 ) vel in. a. 704 (50) ."
+ad_familiares,13,10,CICERO,BRVTO,-0046,-46.0,Scr. Romae in. a. 708 (46) .
+ad_familiares,13,11,CICERO,BRVTO,,,Scr. Romae paulo post ep. x.
+ad_familiares,13,12,CICERO,BRVTO,,,Scr. Romae paulo post ep. xi.
+ad_familiares,13,13,CICERO,BRVTO,,,Scr. Romae paulo post ep. xis.
+ad_familiares,13,14,CICERO,BRVTO,,,Scr. Romae paulo post ep. xiii.
+ad_familiares,13,15,CICERO,CAESARI,-0045,-45.0,Scr. Romae ex. m. Mad. a. 709 (45) .
+ad_familiares,13,16,CICERO,CAESARI,,,Scr. ibid. fere eod. temp. quo ep. xv.
+ad_familiares,13,17,CICERO,SER. 5VLPICIO,-0046,-46.0,"Scr. Romae, ut videtur, a. 708 (46) ."
+ad_familiares,13,18,CICERO,SERVIO.,-0046,-46.0,"Scr. Romae, ut videtur, a. 708 (46) ."
+ad_familiares,13,19,CICERO,SERVIO,-0046,-46.0,"Scr. Romae, ut videtur, a. 708 (46) ."
+ad_familiares,13,20,CICERO,SERVIO,-0046,-46.0,"Scr. Romae, ut videtur, a. 708 (46) ."
+ad_familiares,13,21,CICERO,SERVIO,-0046,-46.0,"Scr. Romae, ut videtur, a. 708 (46) ."
+ad_familiares,13,22,CICERO,SERVIO,-0046,-46.0,"Scr. Romae, ut videtur, a. 708 (46) ."
+ad_familiares,13,23,CICERO,SERVIO,-0046,-46.0,"Scr. Romae, ut videtur, a. 708 (46) ."
+ad_familiares,13,24,CICERO,SERVIO,-0046,-46.0,"Scr. Romae, ut videtur, a. 708 (46) ."
+ad_familiares,13,25,CICERO,SERVIO,-0046,-46.0,"Scr. Romae, ut videtur, a. 708 (46) ."
+ad_familiares,13,26,CICERO,SERVIO,-0046,-46.0,"Scr. Romae, ut videtur, a. 708 (46) ."
+ad_familiares,13,27,CICERO,SERVIO,-0046,-46.0,"Scr. Romae, ut videtur, a. 708 (46) ."
+ad_familiares,13,28,CICERO,SERVIO,-0046,-46.0,"Scr. Romae, ut videtur, a. 708 (46) ."
+ad_familiares,13,28a,CICERO,SERVIO,-0046,-46.0,"Scr. Romae, ut videtur, a. 708 (46) ."
+ad_familiares,13,29,M.,CICERO,-0047,-47.0,Scr. Romae vel ex. a. 707 (47) vel in. a. 708 (46).
+ad_familiares,13,30,CICERO,ACILIO,-0046,-46.0,"Scr. Romae, ut videtur, a. 708 (46) ."
+ad_familiares,13,31,CICERO,ACILIO,-0046,-46.0,"Scr. Romae, ut videtur, a. 708 (46) . ."
+ad_familiares,13,32,CICERO,ACILIO,-0046,-46.0,"Scr. Romae, ut videtur a. 708 (46) ."
+ad_familiares,13,33,CICERO,ACILIO,-0046,-46.0,"Scr. Romae, ut videtur, a. 708 (46) ."
+ad_familiares,13,34,CICERO,ACILIO,-0046,-46.0,"Scr. Romae, ut videtur, a. 708 (46) ."
+ad_familiares,13,35,CICERO,ACILIO,-0046,-46.0,"Scr. Romae, ut videtur, a. 708 (46) ."
+ad_familiares,13,36,CICERO,ACILIO,-0046,-46.0,"Scr. Romae, ut videtur, a. 708 (46) ."
+ad_familiares,13,37,CICERO,ACILIO,-0046,-46.0,"Scr. Romae, ut videtur, a. 708 (46) ."
+ad_familiares,13,38,CICERO,ACILIO,-0046,-46.0,"Scr. Romae, iit videtur, a. 708 (46) ."
+ad_familiares,13,39,CICERO,ACILIO,-0046,-46.0,"Scr. Romae, ut videtur, a. 708 (46) ."
+ad_familiares,13,40,M. CICERO,Q. ANCHARIO Q. F. PROCOS,-0055,-55.0,Scr. Romae ex. a. 699 (55) aut a. 700 (54).
+ad_familiares,13,41,CICERO,CVLLEOLO,-0058,-58.0,Scr. Romae ante a. 696 (58) non nullis mensibus post ep. xlii.
+ad_familiares,13,42,M. CICERO,L. CVLLEOLO PROCOS,-0058,-58.0,Scr. Romae ante a. 696 (58) non nullis mensibus ante ep. xli.
+ad_familiares,13,43,M.,CICERO,-0058,-58.0,Scr. Romae ante a. 696 (58) non nullis mensibus ante ep. xliv.
+ad_familiares,13,44,CICERO,GALLO,-0058,-58.0,Scr. Romae ante a. 696 (58) non nullis mensibus post ep. xliii.
+ad_familiares,13,45,CICERO,APPVLEIO,,,Scr. Romae eod. fere a. quo ep. xliv.
+ad_familiares,13,46,CICERO,APPVLEIO,,,Scr. Romae eod. fere anno quo ep. xlv.
+ad_familiares,13,47,CICERO,SILIO,-0051,-51.0,"Scr., ut videtur, ex. m. Martio a. 701 (51) ."
+ad_familiares,13,48,CICERO C. SEXTILIO RVFO QVAESTORI,,-0047,-47.0,"Scr. Romae, ut videtur, autumno anni 707 (47) ."
+ad_familiares,13,159,CICERO,CVRIO,-0047,-47.0,Scr. Romae inter med. ut Oct. a. 707 (47) et 5 Id. Mart. a. 710 (44).
+ad_familiares,13,50,CICERO,ACILIO,-0044,-44.0,Scr. Romae in. m. Ian. a. 710 (44) . .
+ad_familiares,13,51,CICERO P. CAESIO,,-0056,-56.0,"Scr. loco et anno incerto, fortasse ante 698 (56) ."
+ad_familiares,13,52,CICERO,REGI,-0046,-46.0,Scr. Romae circ. med. m. Sept. a. 708 (46) .
+ad_familiares,13,53,CICERO,THERMO,-0050,-50.0,"Scr. in Cilicia vel ex. a. 70 (51) vel in. a. 704 (50) , ut videtur."
+ad_familiares,13,54,CICERO,THERMO,,,Scr. Laudiceae inter a. d. iii Id. Febr. et m. Apr. a. 704 (50).
+ad_familiares,13,55,CICERO,THERMO,,,"Scr. ut videtur, paulo ante ep. liii."
+ad_familiares,13,56,CICERO,THERMO,,,"Scr., ut videtur, paulo post ep. liii."
+ad_familiares,13,57,CICERO,THERMO,-0050,-50.0,Scr. Laudiceae in. m. Apr. a. 704 (50) .
+ad_familiares,13,58,M.,CICERO,,,Scr. fortasse Laudiceae post a. d. iii Id. Febr. a. 704 (50).
+ad_familiares,13,59,M.,CICERO,,,Scr. Laudiceae post a. d. iii Id. Febr. a. 704 (50).
+ad_familiares,13,60,M.,CICERO,-0046,-46.0,Scr. Romae post reditum fortasse ex. a. 698 (46) .
+ad_familiares,13,61,M. CICERO,P. SILIO PROPR,,,Scr. fere eod. temp. quo ep. liii.
+ad_familiares,13,62,M. CICERO,N SILIO PROPR,,,Scr. paulo post ep. 1xi ut videtur.
+ad_familiares,13,63,M. CICERO,P. SILIO PROPR,,,Scr. foetasse Laudiceae post a. d. iii Id. Febr. a. 704 (50).
+ad_familiares,13,64,M. CICERO,P. SILIO PROPR,,,Scr. paulo post ep. lxii.
+ad_familiares,13,65,M. CICERO,P. SILIO PROPS,,,Scr. paulo post ep. lxiv.
+ad_familiares,13,66,M.,CICERO,-0045,-45.0,Scr. Romae vel ex. m. Ian. vel in. Febr. a. 709 (45) .
+ad_familiares,13,67,M.,CICERO,-0046,-46.0,"Scr. Romae, ut videtur. a. 708 (46) ."
+ad_familiares,13,68,M.,TVLLIVS,-0046,-46.0,Scr. Romae circ. med. in. Sept. a. 708 (46) .
+ad_familiares,13,69,CICERO,P.,-0046,-46.0,"Scr. Romae, ut videtur, a. 708 (46) ."
+ad_familiares,13,70,M.,CICERO,-0046,-46.0,"Scr. Romae, ut videtur, a. 708 (46) ."
+ad_familiares,13,71,M. CICERO,P. SERVILIO CONLEGAE,-0046,-46.0,"Scr. Romae, ut videtur, a. 708 (46) ."
+ad_familiares,13,72,M.,CICERO,-0046,-46.0,"Scr. Romae, ut videtur, a. 708 (46) ."
+ad_familiares,13,73,M.,CICERO,,,Scr. Romae anno post ep. irxiv.
+ad_familiares,13,74,M.,CICERO,,,Scr. Romae eod. temp. quo ep. xliv.
+ad_familiares,13,75,M. CICERO T. TITIO T. F. LEG.,,-0052,-52.0,Scr. Romae vel ex. a. 702 (52) vel in. a. 703 (51).
+ad_familiares,13,76,M. CICERO IIII VIRIS ET DECVRIONIBVS,,,,Scr. Romae anno incerto fort. 691 (6j).
+ad_familiares,13,77,M. CICERO,n SVLPICIO IMfl,-0046,-46.0,Scr. Romae mense intere. pr. a. 708 (46) .
+ad_familiares,13,78,M.,CICERO,-0046,-46.0,Scr. Romae in. a. 708 (46) .
+ad_familiares,13,79,M.,CICERO,-0046,-46.0,Scr. Romae in. a. 708 (46) .
+ad_familiares,14,1,"TVLLIVS TERENTIAE SVAE, TVLLIOLAE SVAE, CICERONI SVO",,,,Scr. Dyrrhachi a. d. vi K. Dec. a. 696 (48).
+ad_familiares,14,2,TVLLIVS,TERENTIAE SVAE ET TVLLIOLAE ET CICERONI SVIS,-0058,-58.0,Scr. Thessalonicae a. d. iii Noti. Oct. a. 696 (58) .
+ad_familiares,14,3,TVLLIVS,TERENTIAE SVAE ET TVLLIAE ET CICERONI,,,Scr. Dyrrhachi pr. K. Dec. a. 696 (58).
+ad_familiares,14,4,TVLLIVS,TERENTIAE ET TVLLIAE ET CICERONI SVIS,,,Scr. Brundisi pr. K. Mart. a. 696 (58).
+ad_familiares,14,5,TVLLIVS,TERENTIAE SVAE,,,Scr. Athenis a. d. xvii K. Novemb. a. 704 (50).
+ad_familiares,14,6,SVIS,,,,Scr. Dyrrhach i Id. Quint. a. 706 (48).
+ad_familiares,14,7,TVLLIVS,TERENTIAE,-0049,-49.0,Scr. in portu Caietano nave conscensa vii ld. Iun. a. 705 (49) .
+ad_familiares,14,8,TVLLIVS,TERENTIAE,,,Scr. Brundisi a. d. iv Non. Iun. a. 707 (47).
+ad_familiares,14,9,TVLLIVS,TERENTIAE,,,Scr. Brundisi a. 706 (48) a. d. xvi K. Ian.
+ad_familiares,14,10,TVLLIVS,TERENTIAE 5VAE,,,Scr. Brindisi vii Id. Quint. a. 707 (47).
+ad_familiares,14,11,TVLLIVS,TERENTIAE SVAE,,,Scr. Brundisi xvii K. Quint. a. 707 (47).
+ad_familiares,14,12,TVLLIVS TERENTIAE SVAE,,-0048,-48.0,Scr. Brundisi Non. Novemb. a. 706 (48) .
+ad_familiares,14,13,TVLLIVS,TERENTIAE SVAE,,,Scr. Brundisi vi Id. Quint. a. 707 (47).
+ad_familiares,14,14,TVLLIVS,TERENTIAE,,,Scr. Menturnis viii K. Febr. a. 705 (49).
+ad_familiares,14,15,TVLLIVS,TERENTIAE,,,Scr. Brundisi xii K. Quint. a. 707 (47).
+ad_familiares,14,16,TVLLIVS TERENTIAE SVAE,,,,Scr. Brundisi pr. Non. Ian. a. 707 (47).
+ad_familiares,14,17,TVLLIVS TERENTIAE SVAE,,,,Scr. Brundisi a. 706 (48) circ. xl i K. Ian.
+ad_familiares,14,18,"TVLLIVS TERENTIAE SVAE ET PATER SVAVISSIMAE FILIAE, CICERO MATRI ET SORORI",P,,,Scr. Formi; ix K. Febr. a. 706 (49).
+ad_familiares,14,19,TVLLIVS TEREMIAE SVAE,,,,Scr. Brundisi iv K. Dec. a. 706 (48).
+ad_familiares,14,20,TVLLIVS,TERENTIAE SVAE,-0047,-47.0,Scr. de Venusino K. Oct. a. 707 (47) .
+ad_familiares,14,21,TVLLIVS TERENTIAE SVAE,,,,Scr. Brundisi pauli post a. d. iii Non. Iun. a. 707 (47).
+ad_familiares,14,22,TVLLIVS,TERENTIAE SVAE,,,Scr. Brundis i K. Sept. a. 707 (47).
+ad_familiares,14,23,TVLLIVS TERENTIAE SVAE,,,,Scr. Brundisi prid. Id. Sext. a. 707 (47).
+ad_familiares,14,24,TVLLIVS TERENTIAE SVAE,,,,Scr. Brundisi iii Id. Sext. a. 707 (47). 15
+ad_familiares,15,1,M. TVLLIVS M. F. CICERO PROCOS.,"COS. PR., TR. PL., SENATVI",,,Scr. in Cilicia xiii K. Oct. a. 703 (51).
+ad_familiares,15,2,M. TVLLIVS M. F. CICERO PROCOS.,"COS. PR., TR. PL., SENATVI",,,Scr. in castris ad Cybistra vel xi vel x K. Oct. a. 703 (51).
+ad_familiares,15,3,M. CICERO,M. CATONI,,,Scr. hi castris ad Iconium iii K. Sept. ant paulo post a. 703 (51).
+ad_familiares,15,4,M. CICERO IMP.,M. CATONI,-0051,-51.0,Scr. Tarsi vel ex. a. 703 (51) vel in. 704 (50).
+ad_familiares,15,5,M. CATO,M. CICERONI IMP,-0050,-50.0,Scr. Romae vel ex. m. Apr. vel in. Mai. a. 704 (50) .
+ad_familiares,15,6,M. CICERO,M. CATONI,-0050,-50.0,Scr. Tarsi paulo aitte in K. Sext. a. 704 (50) .
+ad_familiares,15,7,M.,CICERO,,,Scr. in itinere per Lycaoniam inter K. Sept. et xi K. Oct. 5 a. 703 (51).
+ad_familiares,15,8,M. CICERO PROCOS.,C. MARCELLO CONLEGAE,,,Scr. eodem loco et temp. quo ep. vii.
+ad_familiares,15,9,M. CICERO PROCOS.,M. MARCELLO COS,,,Scr. eodem loco et temp. quo ep. vii et viii.
+ad_familiares,15,10,M. CICERO IMP.,C. MARCELLO C. R COS,-0051,-51.0,Scr. Tarsi vel ex. a. 703 (51) vel in. 704 (50).
+ad_familiares,15,11,M. CICERO IMP.,C. MARCELLO COS,,,Scr. eodem loco et temp. quo ep. vi.
+ad_familiares,15,12,M. CICERO PROCOS.,L. PAVLLO COS. DESIG,,,"Scr. eodem loco et temp. quo ep. vii, viii ix."
+ad_familiares,15,13,M. CICERO IMP.,L. PAVLLO COS,,,Scr. eodem loco et tempore quo ep. iv et x
+ad_familiares,15,14,M. CICERO IMP.,C. CASSIO PROQ,-0051,-51.0,Scr. in castris ad Aras Alexandri (Cf 4.9) med. ut Oct. a. 703 (51) .
+ad_familiares,15,15,M. CICERO,C. CASSIO,-0047,-47.0,Scr. Brundisii circ. med. m. Sext. a. 707 (47) .
+ad_familiares,15,16,M. CICERO,C. CASSIO,-0045,-45.0,Scr. Romae ante mcd. m. Ian. a. 709 (45) .
+ad_familiares,15,17,M.,CICERO,,,Scr. Romae iii K. Ian. aut paulo post a. 708 (46).
+ad_familiares,15,18,M. CICERO,C. CASSIO,-0046,-46.0,Scr. Romae circ. med. m. Dec. a. 708 (46) .
+ad_familiares,15,19,C. CASSIVS,M. CICERONI,-0045,-45.0,Scr. Brundisi ex. m. Ian. a. 709 (45) .
+ad_familiares,15,20,M. CICERO,C. TREBONIO,-0044,-44.0,Scr. Romae (?) m. Apr. 710 (44) .
+ad_familiares,15,21,M. CICERO,C. TREBONIO,-0047,-47.0,Scr. Romae fort. ex. ann. 707 (47) . .
+ad_familiares,16,1,TVLLIVS,TIRONI,,,Scr. in itinere Patris Alyziam iii Non. Nov. a. 704 (50).
+ad_familiares,16,2,TVLLIVS,TIRONI,-0050,-50.0,Scr. Alyziae Non. Nov. a. 704 (50) .
+ad_familiares,16,3,TVLLIVS ET CICERO TIRONI SVO,ET Q. PATER ET FILIVS,,,Scr. Alyziae a. d. viii Id. Nov. a. 704 (50).
+ad_familiares,16,4,TVLLIVS,TIRONI,,,Scr. Leucade vii Id. Nov. a. 704 (50).
+ad_familiares,16,5,TVLLIVS,ET,,,Scr. Leucade vii Id. Nov. a. 704 (50).
+ad_familiares,16,6,TVLLIVS,ET,,,Scr. Acti vii Id. Nov. a. 704 (50).
+ad_familiares,16,7,TVLLIVS ET CICERO,TIRONI SVO,,,Scr. Corcyrae xv K. Dec. a. 704 (50).
+ad_familiares,16,8,Q. CICERO TIRONI,,-0049,-49.0,Scr. in Campania vel ex. m. Ian. vel Febr. a. 705 (49) .
+ad_familiares,16,9,TVLLIVS,ET,,,Scr. Brundisi iv K. Dec. a. 704 (50).
+ad_familiares,16,10,TVLLIVS,TIRONI,,,Scr. Cumano xv K. Mai a. 701 (53).
+ad_familiares,16,11,TVLLIVS,ET,-0049,-49.0,Scr. ad urbem pdd. Id. Ian. a. 705 (49) .
+ad_familiares,16,12,TVLLIVS,TIRONI SVO,,,Scr. Capuae iv K. Febr. a. 705 (49).
+ad_familiares,16,13,TVLLIVS,TIRONI,,,Scr. in Cumano iv Id. Apr. a. 701 (55).
+ad_familiares,16,14,TVLLIVS,TIRONI,,,Scr. in Cumano iii Id. Apr. a. 701(53).
+ad_familiares,16,15,TVLLIVS,TIRONI,,,Scr. in Cumano pr. Id. Apr. a. n. c. 701 (53).
+ad_familiares,16,16,QVINTVS,MARCO,-0053,-53.0,Scr. in Gallia transalpina ex. m. Maio a. 701 (53) .
+ad_familiares,16,17,TVLLIVS,TIRONI,,,Scr. Asturae iv K. Sext. a. 709 (45).
+ad_familiares,16,18,TVLLIVS,TIRONI,-0047,-47.0,Scr. Romae inter med. m. Oct. a. 707 (47) et Id. Mai. a. 710 (44).
+ad_familiares,16,19,TVLLIVS,TIRONI,-0045,-45.0,Scr. in Tusculano paulo post in. m. Sext. a. 709 (45) .
+ad_familiares,16,20,TVLLIVS,TIRONI,,,Scr. eodem loco et tempore quo ep. xviii.
+ad_familiares,16,21,CICERO,F.,-0044,-44.0,Scr. Athenis inter ex. m. Quint. et ex. Oct. a. 710 (44) .
+ad_familiares,16,22,TVLLIVS,TIRONI,,,Scr. Asturae vi K. Sext. a. 709 (45).
+ad_familiares,16,23,CICERO,TIRONI,,,Scr. in Tusculano v K. Iun. a. 710 (44).
+ad_familiares,16,24,TVLLIVS,TIRONI,,,Scr. in Arpinati paulo post a. d. iii Id. Nov. a. 710 (44).
+ad_familiares,16,25,CICERO,F.,-0044,-44.0,Scr. Athenis inter med. m. Sept. et Oct. a. 710 (44) .
+ad_familiares,16,26,QVINTVS TIRONI SV0 P.,,-0044,-44.0,Scr. loco et mense incerto a. 710 (44) .
+ad_familiares,16,27,Q.,CICERO,-0044,-44.0,Scr. loco incerto ex. m. Dec. a. 710 (44) .
+ad_atticum,,1,CICERO,ATTICO,-0065,-65.0,Scr. Romae m. Quint. a. 689 (65) .
+ad_atticum,,2,CICERO,ATTICO,-0065,-65.0,Scr. Romae paulo post ep. 1 a. 689 (65) .
+ad_atticum,,3,CICERO,ATTICO,-0067,-67.0,Scr. Romae ex. a. 687 (67) .
+ad_atticum,,4,CICERO,ATTICO,-0066,-66.0,Scr. Romae in a. 688 (66) .
+ad_atticum,,5,CICERO,ATTICO,-0067,-67.0,Scr. Romae initio anni 687 (67) .
+ad_atticum,,6,CICERO,ATTICO,-0067,-67.0,Scr. Romae ex. m. Ian. a. 687 (67) .
+ad_atticum,,7,CICERO,ATTICO,-0067,-67.0,Scr. Romae ante Id. Febr. 687 (67) .
+ad_atticum,,8,CICERO,ATTICO,-0067,-67.0,Scr. Romae post Id. Febr. a. 687 (67) .
+ad_atticum,,9,CICERO,ATTICO,-0067,-67.0,Scr. Romae m. Mart. aut Apr. a 687 (67) .
+ad_atticum,,10,CICERO,ATTICO,-0067,-67.0,Scr. in Tusculano ante m. Quintil. a. 687 (67) .
+ad_atticum,,11,CICERO,ATTICO,-0067,-67.0,Scr. Romae m. Quint. ante Sext. a. 687 (67) .
+ad_atticum,,12,CICERO,ATTICO,-0061,-61.0,Scr. Romae In Ian. a. 693 (61)
+ad_atticum,,13,CICERO,ATTICO,,,Scr. Romae vi K. Febr. a. 695 (61).
+ad_atticum,,14,CICERO,ATTICO,-0061,-61.0,Scr. Romae Id. Febr. a. 693 (61)
+ad_atticum,,15,CICERO,ATTICO,-0061,-61.0,Scr. Romae Id. Mart. a. 693 (61) .
+ad_atticum,,16,CICERO,ATTICO,-0061,-61.0,Scr. Romae in Quint. a. 693 (61) .
+ad_atticum,,17,CICERO,ATTICO,-0061,-61.0,Scr. Romae Non. Dec. a. 693 (61) .
+ad_atticum,,18,CICERO,ATTICO,,,Scr. vi Kal. Febr. a. 694 (60).
+ad_atticum,,19,CICERO,ATTICO,-0060,-60.0,Scr. Romae Id. Mart. a. 694 (60) .
+ad_atticum,,20,CICERO,ATTICO,-0060,-60.0,Scr. Romae post iiii Id. Maias a. 694 (60) .
+ad_atticum,,1,CICERO,ATTICO,-0060,-60.0,Scr. Romae m. Iun. a. 694 (60) .
+ad_atticum,,2,CICERO,ATTICO,-0060,-60.0,"Scr. ad villam m. Dec., a. 694 (60) ."
+ad_atticum,,3,CICERO,ATTICO,-0060,-60.0,Scr. ad villam m. Dec. a. 694 (60) .
+ad_atticum,,4,CICERO,ATTICO,-0059,-59.0,Scr. Anti medio circ. m. Aprili a. 695 (59) .
+ad_atticum,,5,CICERO,ATTICO,-0059,-59.0,Scr. Anti medio m. Apr. a. 695 (59) .
+ad_atticum,,6,CICERO,ATTICO,-0059,-59.0,Scr. Anti medio m. Apr. a. 695 (59) .
+ad_atticum,,7,CICERO,ATTICO,-0059,-59.0,Scr. Anti medio m. Apr. a. 695 (59) .
+ad_atticum,,8,CICERO,ATTICO,-0059,-59.0,Scr. Anti medio m. Apr. a. 695 (59) .
+ad_atticum,,9,CICERO,ATTICO,-0059,-59.0,Scr. Anti medio m. Apr. a. 695 (59) .
+ad_atticum,,10,CICERO,ATTICO,,,Scr. ab Appi Foro xii K. Apr. a. 695 (59).
+ad_atticum,,11,CICERO,ATTICO,,,Scr. in Formiano circ. vi K. Mai. a. 695 (59).
+ad_atticum,,12,CICERO,ATTICO,,,Scr. a Tribus Tabernis xiii K. Mai. a. 695 (59).
+ad_atticum,,13,CICERO,ATTICO,,,Scr. in Formiano m. Apr. circ. v K. Mai. a. 695 (59).
+ad_atticum,,14,CICERO,ATTICO,,,Scr. in Formiano circ. iv K. Mai. a. 695 (59).
+ad_atticum,,15,CICERO,ATTICO,,,Scr. in Formiano circ. iii K. Mai. a. 695 (59).
+ad_atticum,,16,CICERO,ATTICO,-0059,-59.0,Scr. in Formiano in m. Maio a. 695 (59) .
+ad_atticum,,17,CICERO,ATTICO,-0059,-59.0,Scr. in Formiano in m. Mai. a. 695 (59) .
+ad_atticum,,18,CICERO,ATTICO,-0059,-59.0,Scr. Romae m. Iun. aut in Quint. a. 695 (59) .
+ad_atticum,,19,CICERO,ATTICO,-0059,-59.0,Scr. Romae medio m. Quint. a. 695 (59) .
+ad_atticum,,20,CICERO,ATTICO,-0059,-59.0,Scr. Romae in Quint. a. 695 (59) .
+ad_atticum,,21,CICERO,ATTICO,,,"Scr. Romae post viii K. Sext. , ante xv K. Nov. a. 695 (59)."
+ad_atticum,,22,CICERO,ATTICO,,,"Scr. Romae post viil K. Sext., ante xv K. Nov. a. 69; (59): fort. m. Sext."
+ad_atticum,,23,CICERO,ATTICO,,,Scr. Romae ante xv K. Nov. a. 695 (59): fort. medio m. Sext.
+ad_atticum,,24,CICERO,ATTICO,,,Scr. Romae ammte xv K. Nov. a. 695 (59): fort. m Sext.
+ad_atticum,,25,CICERO,ATTICO,-0059,-59.0,Scr. Romae ante K. a. 695 (59) : fort. m. Oct.
+ad_atticum,,1,CICERO,ATTICO,-0058,-58.0,Scr. proficiscens in exsilium in in Apr. a. 696 (58) .
+ad_atticum,,2,CICERO,ATTICO,,,Scr. in itinere vi Id. Apr. a. 696 (58).
+ad_atticum,,3,CICERO,ATTICO,-0058,-58.0,Scr. Itinere circ. Non. Apr. a. 696 (58) .
+ad_atticum,,4,CICERO,ATTICO,-0058,-58.0,Scr. in itinere inter Vibonem et Brundisium post ep. 5 Id. Apr. a. 696 (58) .
+ad_atticum,,5,CICERO,ATTICO,,,"Scr. Thuriis iv Id. Apr. , ut videtur, a. 696 (58)."
+ad_atticum,,6,CICERO,ATTICO,,,Scr. in Tarentino xiv K. Mai. a. 696 (58).
+ad_atticum,,7,CICERO,ATTICO,,,Scr. Brundisii pr. K. Mai. a. 696 (58).
+ad_atticum,,8,CICERO,ATTICO,,,Scr. Thessalonicae iv K. Iun. a. 696 (58).
+ad_atticum,,9,CICERO,ATTICO,-0058,-58.0,Scr. Thessalonicae Id. Iun. a. 696 (58) .
+ad_atticum,,10,CICERO,ATTICO,-0058,-58.0,Scr. Thessalonnicae anno K. Quint. a. 696 (58) .
+ad_atticum,,11,CICERO,ATTICO,,,Scr. Thessalonicae iv K. Quint. a. 696 (58).
+ad_atticum,,12,CICERO,ATTICO,,,Scr. Thessalonicae xvi Kal. Sext. a. 696 (58).
+ad_atticum,,13,CICERO,ATTICO,-0058,-58.0,Scr. Thessalonicae Non. Sext. a. 696 (58) . .
+ad_atticum,,14,CICERO,ATTICO,,,Scr. Thessalonicae x K. Sext. a. 696 (58).
+ad_atticum,,15,CICERO,ATTICO,,,Scr. Thessalonicae xiv K. Sept. a. 696 (58).
+ad_atticum,,16,CICERO,ATTICO,,,Scr. Thessalonicae xii K. Sept. a. 696 (58).
+ad_atticum,,17,CICERO,ATTICO,,,Scr. Thessalonicae pr. Nonis Sept. a. 696 (;S).
+ad_atticum,,18,CICERO,ATTICO,-0058,-58.0,Scr. Thessalonicae media m. Sept. a. 696 (58) .
+ad_atticum,,19,CICERO,ATTICO,,,Scr. Thessalonicae xvi K. Oct. a. 696 (58).
+ad_atticum,,20,CICERO,Q. CAECILIO Q. N POMPONIANO ATTICO,,,Scr. Thessalonicae iv Non. Oct. a. 696 (58).
+ad_atticum,,21,CICERO,ATTICO,,,Scr. Thessalonicae v K. Nov. a. 696 (58)
+ad_atticum,,22,CICERO,ATTICO,,,Scr. partim Thessalonicae partim Dyrrachi vi K. Dec. a. 696 (58).
+ad_atticum,,23,CICERO,ATTICO,,,Scr. Dyrrachi pr. K. Dec. a. 696 (58).
+ad_atticum,,24,CICERO,ATTICO,-0058,-58.0,Scr. Dyrrachium Id. Dec. a. 696 (58) .
+ad_atticum,,25,CICERO,ATTICO,,,"Scr. Dyrrachi m. Dec. a. 696 (58) post iv Id., ante ii K. Ian."
+ad_atticum,,26,CICERO,ATTICO,-0057,-57.0,Scr. Dyrrachi m. Ianuario a. 697 (57) .
+ad_atticum,,27,CICERO,ATTICO,-0057,-57.0,Scr. Dyrrachi ex. m. Ian. a. 697 (57) .
+ad_atticum,,1,CICERO,ATTICO,-0057,-57.0,Scr. Romae med. m. Sept. a. 697 (57) .
+ad_atticum,,2,CICERO,ATTICO,-0057,-57.0,Scr. Romae in m. Oct. a. 697 (57) .
+ad_atticum,,3,CICERO,ATTICO,,,Scr. Romae vi K. Dec. a. 697 (57).
+ad_atticum,,4,CICERO,ATTICO,,,Scr. Romae iii K. Febr. a. 698 (56).
+ad_atticum,,4A,CICERO,ATTICO,-0056,-56.0,Scr. in Antiati m. Apr. aut Mai. a. 698 (56) .
+ad_atticum,,5,CICERO,ATTICO,-0056,-56.0,Scr. in Antiati m. April. aut Mai. a. 698 (56) .
+ad_atticum,,6,CICERO,ATTICO,-0056,-56.0,Scr. in Antiati m. Apr. aut Mai. a. 698 (56) .
+ad_atticum,,7,CICERO,ATTICO,-0056,-56.0,Scr. in Arpinati m. Apr. aut Mai. a. 698 (56) .
+ad_atticum,,8,CICERO,ATTICO,-0056,-56.0,Scr. in Antiati m. Apr. aut Mai. a. 698 (56) .
+ad_atticum,,8A,CICERO,ATTICO,-0056,-56.0,Scr. autumno anni 698 (56) .
+ad_atticum,,9,CICERO,ATTICO,,,Scr. Neapoli iv K. Mai a. 699 (55).
+ad_atticum,,10,CICERO,ATTICO,,,Scr. in Cttn:ano ix K. Mai. a. 699 (55).
+ad_atticum,,11,CICERO,ATTICO,-0055,-55.0,Scr. in Cumano a. d. v. K. Mai. a. 699 (55) .
+ad_atticum,,12,CICERO,ATTICO,-0055,-55.0,Scr. um Mai. a. 699 (55) .
+ad_atticum,,13,CICERO,ATTICO,,,Scr. in Tusculano m. Nov. post xvii K. Dec. a. 699 (55).
+ad_atticum,,14,CICERO,ATTICO,-0054,-54.0,Scr. in Cumano m. Mai. post vi Id. a. 700 (54) .
+ad_atticum,,15,CICERO,ATTICO,,,Scr. Romae vi K. Sext. a. 700 (54).
+ad_atticum,,16,CICERO,ATTICO,-0054,-54.0,Scr. Romae ex. m. Iun. aut in Quint. a. 700 (54) .
+ad_atticum,,17,CICERO,ATTICO,-0054,-54.0,Scr. Romae K. Oct. a. 700 (54) .
+ad_atticum,,18,CICERO,ATTICO,-0054,-54.0,Scr. Romae ex. m. Oct. a. 700 (54) .
+ad_atticum,,19,CICERO,ATTICO,-0054,-54.0,Scr. Romae ex. m. Nov. a. 700 (54) .
+ad_atticum,,1,CICERO,ATTICO,,,Scr. Menturnis iii aut prid. Non. Mai. a. 703 (49).
+ad_atticum,,2,CICERO,ATTICO,,,Scr. in Pompeiano vi Id. Mai. a. 703 (51).
+ad_atticum,,3,CICERO,ATTICO,,,Scr. in Trebulano v Id. Mai. a. 703 (51).
+ad_atticum,,4,CICERO,ATTICO,,,Scr. Beneventi iv Id. Mai a. 701 (51).
+ad_atticum,,5,CICERO,ATTICO,,,Scr. Venusiae ii aut prid. Id. Mai. a. 703 (51).
+ad_atticum,,6,CICERO,ATTICO,,,Scr. Tarenti xiv K. Iun. a. 703 (51).
+ad_atticum,,7,CICERO,ATTICO,,,Scr. Tarenti xi K. Iun. a. 705 (49).
+ad_atticum,,8,CICERO,ATTICO,-0051,-51.0,Scr. Brundisi iv aut iii Nonis Iun. a. 703 (51) .
+ad_atticum,,9,CICERO,ATTICO,-0051,-51.0,Scr. Acti xvii. K. Quint. a. 703 (51) .
+ad_atticum,,10,CICERO,ATTICO,-0051,-51.0,Scr. Athenis prid. K. aut K. Quint. a. 703 (51) .
+ad_atticum,,11,CICERO,ATTICO,,,Scr. Athenis pr. Non. Quint. a. 703 (51).
+ad_atticum,,12,CICERO,ATTICO,-0051,-51.0,Scr. in medio mari med. m. Quint. a. 703 (51) .
+ad_atticum,,13,CICERO,ATTICO,,,Scr. Ephesi vii K. Sext. a. 703 (51).
+ad_atticum,,14,CICERO,ATTICO,,,Scr. Trallibus vi K. Sext. a. 703 (51).
+ad_atticum,,15,CICERO,ATTICO,,,Scr. Laodiceae il i Non. Sext. a. 703 (51).
+ad_atticum,,16,CICERO,ATTICO,,,Scr. in itinere a Synnada ad Philomelium inter a. d. v et iii Id. Sext. a. 703 (51).
+ad_atticum,,17,CICERO,ATTICO,,,Scr. in itinere ad castra inter iv Id. a prid. Id. Sext. a. 703 (51).
+ad_atticum,,18,CICERO,ATTICO,,,Scr. in castris ad Cybistra xi K. Oct. a. 703 (51).
+ad_atticum,,19,CICERO,ATTICO,,,Scr. in castris ad Cybistra x K. Oct. a. 703 (51).
+ad_atticum,,20,CICERO,ATTICO,,,Scr. in Cilicia inter a. d. xii et iv K. Ian. a. 703 (51).
+ad_atticum,,21,CICERO,ATTICO,-0050,-50.0,Scr. Laodiceae Id. Febr. a. 704 (50) .
+ad_atticum,,1,CICERO,ATTICO,,,Scr. Laodiceae vi K. Mart. a. 704 (50).
+ad_atticum,,2,CICERO,ATTICO,-0050,-50.0,Scr. Laodiceae in m. Mai. a. 704 (50) .
+ad_atticum,,3,CICERO,ATTICO,,,Scr. in Cilicia tim. liam ante v K. Quint. a. 704 (50).
+ad_atticum,,4,CICERO,ATTICO,-0050,-50.0,Scr. in itinere paulo post Non. Iun. a. 704 (50) .
+ad_atticum,,5,CICERO,ATTICO,,,Scr. in castris v K. Quint. a. 704 (50).
+ad_atticum,,6,CICERO,ATTICO,,,Scr. Rhodi circ. iv Id. Sext. a. 704 (50).
+ad_atticum,,7,CICERO,ATTICO,,,Scr. Tarsi ante iii K. Sext. a. 704 (50).
+ad_atticum,,8,CICERO,ATTICO,,,Scr. Ephes i K. Oct. a. 704 (50).
+ad_atticum,,9,CICERO,ATTICO,-0050,-50.0,Scr. Athenis Id. Oct. a. 704 (50) .
+ad_atticum,,1,CICERO,ATTICO,,,Scr. Athenis xvii K. Nov. a. 704 (50).
+ad_atticum,,2,CICERO,ATTICO,,,Scr. Brundisi v K. Dec. a. 704 (50).
+ad_atticum,,3,CICERO,ATTICO,,,Scr. in Trebulano v Id. Dec. a. 704 (50).
+ad_atticum,,4,CICERO,ATTICO,,,Scr. in Pompeiano iv aut iii Id. Dec. a. 704 (50).
+ad_atticum,,5,CICERO,ATTICO,,,Scr. in Formiano xv K. Ian. a. 704 (50).
+ad_atticum,,6,CICERO,ATTICO,,,Scr. in Formiano xiv K. Ian. a. 704 (50).
+ad_atticum,,7,CICERO,ATTICO,,,Scr. in Formiano inter xiiii et x K. Iun. a. 704 (50).
+ad_atticum,,8,CICERO,ATTICO,,,Scr. in Formiano vi aut v K. Ian. a. 704 (50) .
+ad_atticum,,9,CICERO,ATTICO,,,Scr. in Formiano v aut iv K. Ian. a. 704 (50).
+ad_atticum,,10,CICERO,ATTICO,-0049,-49.0,Scr. ad urbem xiv sub noctem aut xiiii ante lucem in K. Febr. a. 705 (49) .
+ad_atticum,,11,CICERO,ATTICO,,,Scr. in Campania inter xiv et ix K. Febr. a. 705 (49).
+ad_atticum,,12,CICERO,ATTICO,,,Scr. in Formiano x K. Febr. a. 705 (49).
+ad_atticum,,13,CICERO,ATTICO,,,Scr. Menturnis ix K. Febr. a. 705 (49).
+ad_atticum,,13A,CICERO,ATTICO,-0049,-49.0,Scr. Menturnis vid K. Febr. a. 705 (49) .
+ad_atticum,,14,CICERO,ATTICO,,,Scr. Calibus a. d. vi K. Febr. a. 705 (49).
+ad_atticum,,15,CICERO,ATTICO,,,Scr. Capuae v K. Febr. a. 705 (49).
+ad_atticum,,16,CICERO,ATTICO,,,Scr. Calibus iv K. Febr. a. 705 (49).
+ad_atticum,,17,CICERO,ATTICO,-0049,-49.0,Scr. in Formiano iv Non. Febr. a. 705 (49) .
+ad_atticum,,18,CICERO,ATTICO,,,Scr. imi Formiano iii Non. Febr. a. 705 (49).
+ad_atticum,,19,CICERO,ATTICO,,,Scr. in Formiano iii Non. Febr. a. 705 (49).
+ad_atticum,,20,CICERO,ATTICO,-0049,-49.0,Scr. Capuae Non. Febr. a. 705 (49) .
+ad_atticum,,21,CICERO,ATTICO,,,Scr. Calibus vi Id. Febr. ante lucem a. 705 (49).
+ad_atticum,,22,CICERO,ATTICO,,,Scr. in Formiano vi Id. Febr. vesperi aut v Id. mane a. 705 (49).
+ad_atticum,,23,CICERO,ATTICO,,,Scr. in Formiano v Id. Febr. vesp. aut iv Id. a. 705 (49).
+ad_atticum,,24,CICERO,ATTICO,,,Scr. in Formiano iv Id. Febr. a. 705 (49).
+ad_atticum,,25,CICERO,ATTICO,,,Scr. in Formiano iv aut iii Id. Febr. a. 705 (49).
+ad_atticum,,26,CICERO,ATTICO,,,"Scr. in Formiano xv K. Mart. a, 705 (49)."
+ad_atticum,,1,CICERO,ATTICO,,,Scr. in Formiano xiv K. Mart. a. 705 (49).
+ad_atticum,,2,CICERO,ATTICO,,,Scr. in Formiano xiii K. Mart. a. 705 (49).
+ad_atticum,,3,CICERO,ATTICO,,,Scr. in Caleno xii K. Mart. a. 705 (49).
+ad_atticum,,4,CICERO,ATTICO,,,Scr. in Formiano viii K. Mart. ante lucem a. 705 (49).
+ad_atticum,,5,CICERO,ATTICO,,,Scr. in Formiano vii K. Mart. a. 705 (49).
+ad_atticum,,6,CICERO,ATTICO,-0049,-49.0,"Scr. in Formiano ix K. Mart., ut videtur, a. 705 (49) ."
+ad_atticum,,7,CICERO,ATTICO,-0049,-49.0,"Scr. ut Formiano vii K. Mart., ut videtur, a. 705 (49) ."
+ad_atticum,,8,CICERO,ATTICO,,,Scr. in Formiano vi K. Mart. a. 705(49).
+ad_atticum,,9,CICERO,ATTICO,,,Scr. in Formiano v K. Mart. a. 705 (49).
+ad_atticum,,10,CICERO,ATTICO,,,Scr. in Formiano iv K. Mart. a. 705 (49).
+ad_atticum,,11,CICERO,ATTICO,-0049,-49.0,Scr. in Formiano in K. Mart. a. 705 (49) .
+ad_atticum,,11A,CN. MAGNVS PROCOS.,M. CICERONI IMP,,,Scr. Luceriae iv Id. Febr. a. 705 (49).
+ad_atticum,,11B,M. CICERO IMP.,CN. MAGNO PROCOS,,,Scr. in Formiano xv K. Mart. a. 705 (49).
+ad_atticum,,11C,CN. MAGNVS PROCOS.,M. CICERONI IMP,,,Scr. Canusi x K. Mart. a. 705 (49).
+ad_atticum,,11D,M. CICERO IMP.,CN. MAGNO PROCOS,,,Scr. in Formiano iii K. Mart. a. 705 (49).
+ad_atticum,,12,CICERO,ATTICO,,,Scr. in Formiano prid. K. Mart. a. 705 (49).
+ad_atticum,,12A,CN. MAGNVS PROCOS.,C. MARCELLO L. LENTVLO COSS,,,Scr. Luceriae xiii aut xii K. Mart. a. 705 (49).
+ad_atticum,,12B,CN. MAGNVS PROCOS.,L. DOMITIO PROCOS,,,Scr. Luceriae iii aut prid. Id. Febr. a. 705 (49).
+ad_atticum,,12C,CN. MAGNVS PROCOS.,L. DOMITIO PROCOS,,,Scr. Luceriae xiv K. Mart. a. 705 (49).
+ad_atticum,,12D,CN. MAGNVS PROCOS.,L. DOMITIO PROCOS,,,Scr. Luceriae xiii K. Mart. 705 (49).
+ad_atticum,,13,CICERO,ATTICO,-0049,-49.0,Scr. in Formiano K. Mart. a. 705 (49) .
+ad_atticum,,14,CICERO,ATTICO,,,Scr. in Formiano vi Non. Mart. a. 705 (49).
+ad_atticum,,15,CICERO,ATTICO,,,Scr. in Formiano v Non. Mart. a. 705 (49).
+ad_atticum,,15A,BALBVS,CICERONI,-0049,-49.0,Scr. Romae circ. K. Mart. a. 705 (49) .
+ad_atticum,,16,CICERO,ATTICO,,,Scr. in Formiano iv Non. Mart. a. 705 (49).
+ad_atticum,,1,CICERO,ATTICO,,,Scr. in Formiano prid. Non. Mart. a. 705 (49).
+ad_atticum,,2,CICERO,ATTICO,-0049,-49.0,Scr. in Formiano Non. Mart. a. 705 (49) .
+ad_atticum,,2A,CICERO,ATTICO,,,Scr. in Formiano viii Id. Mart. a. 705 (49).
+ad_atticum,,3,CICERO,ATTICO,,,Scr. in Formiano vii Id. Mart. a. 705 (49).
+ad_atticum,,4,CICERO,ATTICO,,,Scr. in Formiano iv Id. Mart. a. 705 (49).
+ad_atticum,,5,CICERO,ATTICO,,,Scr. im Formiano vi Id. Mart. a. 705 (49).
+ad_atticum,,6,CICERO,ATTICO,,,Scr. in Formiano v Id. Mart. a. 705 (49).
+ad_atticum,,6A,CAESAR IMP.,CICERONI IMP,-0049,-49.0,Scr. in itinere in m. Mart. a 705 (49) .
+ad_atticum,,7,CICERO,ATTICO,,,Scr. in Formiano iii Id. Mart. a. 705(49).
+ad_atticum,,9A,BALBVS ET OPPIVS,M. CICERONI,,,Scr. Romae vi aut v Id. Mart. a. 705 (49).
+ad_atticum,,9B,BALBVS,CICERONI,,,Scr. Romae v aut iv Id. Mart. a. 705 (49).
+ad_atticum,,7C,CAESAR,OPPIO,,,Scr. in itinere circ. Non. Mart.
+ad_atticum,,8,CICERO,ATTICO,,,Scr. in Formiano prid. Id. Mart. a. 705 (49).
+ad_atticum,,9,CICERO,ATTICO,,,Scr. in Formiano xvi K. Apr. a. 705(49).
+ad_atticum,,10,CICERO,ATTICO,-0049,-49.0,Scr. in Formiano xv K. Apr. a. 705 (49) .
+ad_atticum,,11,CICERO,ATTICO,,,Scr. in Formiano xiii K. Apr. a. 705(49).
+ad_atticum,,11A,CICERO IMP.,salutem dicit CAESARI IMP,,,Scr. in Formiano v K. Apr. a. 705 (49).
+ad_atticum,,12,CICERO,ATTICO,,,Scr. in Formiano xiii K. Apr. a. 705 (49).
+ad_atticum,,13,CICERO,ATTICO,-0049,-49.0,Scr. in Formiano ix K. Apr. a. 705 (49) .
+ad_atticum,,13A,BALBVS,CICERONI,,,Scr. Romae circ. x K. Apr. 705 (49).
+ad_atticum,,14,CICERO,ATTICO,,,Scr. in Formiano viii K. Apr. a. 705 (49).
+ad_atticum,,15,CICERO,ATTICO,,,Scr. in Formiano viii K. Apr. a. 70; (49).
+ad_atticum,,16,CICERO,ATTICO,,,Scr. in Formiano vii K. Apr. a. 705 (49).
+ad_atticum,,17,CICERO,ATTICO,,,Scr. in Formiano vi K. Apr. a. 705 (49).
+ad_atticum,,18,CICERO,ATTICO,-0049,-49.0,Scr. Arpini v K. Apr. a. 705 (49) .
+ad_atticum,,19,CICERO,ATTICO,,,Scr. Arpini. prid. K. Apr. a. 705 (49).
+ad_atticum,,1,CICERO,ATTICO,,,Scr. in Laterio Quinti fratris iii Non. Apr. a. 705 (49).
+ad_atticum,,2,CICERO,ATTICO,-0049,-49.0,Scr. in Arcano Quinti fratris postr. Non. Apr. a. 705 (49) .
+ad_atticum,,3,CICERO,ATTICO,,,Scr. in Arcano vii Id. Apr. a. 705 (49).
+ad_atticum,,3A,CICERO,ATTICO,,,Scr. in Arcano vii Id. Apr. a. 705 (49).
+ad_atticum,,4,CICERO,ATTICO,,,Scr. in Cumano xvii K. Mai. a. 705 (49).
+ad_atticum,,5,CICERO,ATTICO,-0049,-49.0,Scr. in Cumano xv K. Mai. a. 705 (49) .
+ad_atticum,,6,CICERO,ATTICO,-0049,-49.0,Scr. in Cumano medio m. Apr. a. 705 (49) .
+ad_atticum,,7,CICERO,ATTICO,,,Scr. in Cumano circ. ix K. Mai. a. 705 (49).
+ad_atticum,,8,CICERO,ATTICO,,,Scr. in Cumano vi Non. Mai. a. 705 (49).
+ad_atticum,,8A,ANTONIVS,TRIB.,-0049,-49.0,Scr. circa finem m. Apr. a. 705 (49) .
+ad_atticum,,8B,CAESAR,IMP.,-0049,-49.0,Scr. ex itinere xv K. Maias a. 705 (49) .
+ad_atticum,,9,CICERO,ATTICO,,,Scr. in Cumano v Non. Mai. a. 705 (49)
+ad_atticum,,9A,CAELIVS,CICERONI,,,Scr. Intimili xv K. Mai. a. 705 (49). = ad fam. 8.16.
+ad_atticum,,10,CICERO,ATTICO,,,Scr. in Cumano v Non. Mai. a. 705 (49).
+ad_atticum,,11,CICERO,ATTICO,,,Scr. in Cumano iv Non. Mai. a. 705 (49).
+ad_atticum,,12,CICERO,ATTICO,,,Scr. in Cumano iii Non. Mai. a. 705(49).
+ad_atticum,,12A,CICERO,ATTICO,,,Scr. in Cumano prid. Non. Mai. a. 705(49).
+ad_atticum,,13,CICERO,ATTICO,-0049,-49.0,Scr. in Cumano Nou. Mai. a. 705 (49) .
+ad_atticum,,14,CICERO,ATTICO,,,Scr. in Cumano viq i Id. Mai. a. 705 (49).
+ad_atticum,,15,CICERO,ATTICO,,,Scr. in Cumano iv Id. Mai. a. 705 (49).
+ad_atticum,,16,CICERO,ATTICO,,,Scr. in Cumano prid. Id. Mai. a. 705 (49).
+ad_atticum,,17,CICERO,ATTICO,,,Scr. in Cumano xvii K. Iun. a. 705(49).
+ad_atticum,,18,CICERO,ATTICO,,,Scr. in Cumano xiv aut xiii K. Iun. a. 705 (49).
+ad_atticum,,1,CICERO,ATTICO,-0048,-48.0,"Scr. in Epiro inter Non. et Id. Ian., ut videtur, a. 706 (48) ."
+ad_atticum,,2,CICERO,ATTICO,-0048,-48.0,"Scr. in Epiro aliquanto post Non. Febr., ut videtur, a. 706 (48) ."
+ad_atticum,,3,CICERO,ATTICO,,,Scr. in castris Pompe i Id. Iun. a. 706 (48).
+ad_atticum,,4,CICERO,ATTICO,,,Scr. in castris Pompe i Id. Quint. a. 706 (48).
+ad_atticum,,4A,CICERO,ATTICO,-0048,-48.0,Scr. Dyrrhachi inter xvi et xii K. Quint. a. 706 (48) .
+ad_atticum,,5,CICERO,ATTICO,,,Scr. Brundi%si pr. Non. Nov. a. 706 (48).
+ad_atticum,,6,CICERO,ATTICO,,,Scr. Brundisi iv K. Dec. a. 706 (48).
+ad_atticum,,7,CICERO,ATTICO,,,Scr. Brundisi xiv Kal. Ian. a. 706 (48).
+ad_atticum,,8,CICERO,ATTICO,,,Scr. Brundisi x iiii K. Ian. a. 706 (48).
+ad_atticum,,9,CICERO,ATTICO,,,Scr. Brundisi iii Non. Ian. a. 707 (47).
+ad_atticum,,10,CICERO,ATTICO,-0047,-47.0,Scr. Brundisi xii K. Febr. a. 707 (47) .
+ad_atticum,,11,CICERO,ATTICO,,,Scr. Brundisi vir i Id. Mart. a. 707 (47).
+ad_atticum,,12,CICERO,ATTICO,,,Scr. Brundisi viii Id. Mart. a. 707 (47).
+ad_atticum,,13,CICERO,ATTICO,-0047,-47.0,Scr. Brundisi circ. med. m. Mart. a. 707 (47) .
+ad_atticum,,14,CICERO,ATTICO,,,Scr. Brundisii circ. vi K. Mai. a. 707 (47).
+ad_atticum,,15,CICERO,ATTICO,,,Scr. Brundisi prid. Id. Mai. a. 707 (47).
+ad_atticum,,16,CICERO,ATTICO,-0047,-47.0,Scr. Brundisi. iii Nou. luot. a. 707 (47) .
+ad_atticum,,17,CICERO,ATTICO,-0047,-47.0,Scr. Brundisi prid. Id. aut Id. Iun. a. 707 (47) .
+ad_atticum,,17A,CICERO,ATTICO,,,Scr. Brundisi xvii K. Quint. a. 707 (47).
+ad_atticum,,18,CICERO,ATTICO,,,Scr. Brundisi xii K. Quint. a. 707 (47).
+ad_atticum,,19,CICERO,ATTICO,-0047,-47.0,Scr. Brundisi xi K. Sext. a. 707 (47) .
+ad_atticum,,20,CICERO,ATTICO,,,Scr. Brundisi xvi K. Sept. a. 707 (47).
+ad_atticum,,21,CICERO,ATTICO,,,Scr. Brundisii vi aut v K. Sept. a. 707 (47).
+ad_atticum,,22,CICERO,ATTICO,-0047,-47.0,"Scr. Brundisi circ. K. Sept., ut videtur, a. 707 (47) ."
+ad_atticum,,23,CICERO,ATTICO,,,Scr. Brundisi vii Id. Quint. a. 707 (47).
+ad_atticum,,24,CICERO,ATTICO,,,Scr. Brundisi viii Id. Sext. a. 707 (47).
+ad_atticum,,25,CICERO,ATTICO,,,Scr. Brundisi iii Non. Quint. a. 707 (47).
+ad_atticum,,1,CICERO,ATTICO,,,Scr. in Arpinati viii K. Dec. a. 708 (46).
+ad_atticum,,2,CICERO,ATTICO,-0046,-46.0,Scr. Romae ante med. m. Apr. a. 708 (46) .
+ad_atticum,,3,CICERO,ATTICO,,,Scr. in Tusculano iii Id. Iun. a. 708 (46).
+ad_atticum,,4,CICERO,ATTICO,,,Scr. in Tusculano xvii K. Quint. a. 708 (46).
+ad_atticum,,5,CICERO,ATTICO,-0046,-46.0,Scr. in Tusculano in m. Quint. a. 708 (46) .
+ad_atticum,,5A,CICERO,ATTICO,,,Scr. in Tusculano prid. K. Iun. a. 709 (45).
+ad_atticum,,5B,CICERO,ATTICO,,,Scr. in Tusculano i aut ii Id. Iun. a. 709 (45).
+ad_atticum,,5C,CICERO,ATTICO,,,Scr. in Tusculano prid. Id. Iun. a. 708 (46).
+ad_atticum,,6,CICERO,ATTICO,-0046,-46.0,Scr. in Tusculano in interc. post a. 708 (46) .
+ad_atticum,,7,CICERO,ATTICO,-0046,-46.0,Scr. in Tusculano m. interc. post a. 708 (46) .
+ad_atticum,,8,CICERO,ATTICO,-0046,-46.0,Scr. in Tusculano m. interc. post a. 708 (46) .
+ad_atticum,,9,CICERO,ATTICO,,,Scr. Asturae vi K. Sext. a. 709 (45).
+ad_atticum,,10,CICERO,ATTICO,,,Scr. Asturae v K. Sext. a. 709 (45).
+ad_atticum,,11,CICERO,ATTICO,-0046,-46.0,Scr. in Tusculano m. interc. post. a. 708 (46) .
+ad_atticum,,12,CICERO,ATTICO,,,Scr. Asturae xvii K. Apr. a. 709 (45).
+ad_atticum,,13,CICERO,ATTICO,-0045,-45.0,Scr. Asturae Non. Mart. a. 709 (45) .
+ad_atticum,,14,CICERO,ATTICO,,,Scr. Asturae viii Id. Mart. a. 709 (45).
+ad_atticum,,15,CICERO,ATTICO,,,Scr. Asturae vii Id. Mart. a. 709 (45).
+ad_atticum,,16,CICERO,ATTICO,,,Scr. Asturae vi Id. Mart. a. 709 (45).
+ad_atticum,,17,CICERO,ATTICO,,,Scr. Asturae iv Id. Mart. a. 709 (45).
+ad_atticum,,18,CICERO,ATTICO,,,Scr. Asturae v Id. Mart. a. 709 (45).
+ad_atticum,,18A,CICERO,ATTICO,,,Scr. Asturae iii Id. Mart. a. 709 (45).
+ad_atticum,,19,CICERO,ATTICO,,,Scr. Asturae prid. Id. Mart. a. 709 (45).
+ad_atticum,,20,CICERO,ATTICO,-0045,-45.0,Scr. Asturae Id. Mart. a. 709 (45) .
+ad_atticum,,21,CICERO,ATTICO,,,Scr. Asturae xvi K. Apr. a. 709 (45).
+ad_atticum,,22,CICERO,ATTICO,,,Scr. Asturae xv K. Apr. a. 709 (45).
+ad_atticum,,23,CICERO,ATTICO,-0045,-45.0,Scr. Asturae xiv K. Apr. a. 709 (45) .
+ad_atticum,,24,CICERO,ATTICO,,,Scr. Asturae xiii K. Apr. a. 709 (45).
+ad_atticum,,25,CICERO,ATTICO,,,Scr. Asturae xi K. Apr. a. 709 (45).
+ad_atticum,,26,CICERO,ATTICO,,,Scr. Asturae xi K. Apr. a. 709 (45).
+ad_atticum,,27,CICERO,ATTICO,,,Scr. Asturae x K. Apr. a. 709 (45).
+ad_atticum,,28,CICERO,ATTICO,-0045,-45.0,Scr. Asturae ix K. Apr. a. 709 (45) .
+ad_atticum,,29,CICERO,ATTICO,,,Scr. Asturae viii K. Apr. a. 709 (45).
+ad_atticum,,30,CICERO,ATTICO,-0045,-45.0,Scr. Asturae vi Id. Apr. a. 709 (45) .
+ad_atticum,,31,CICERO,ATTICO,-0045,-45.0,Scr. Asturae iv. K. Apr. a. 709 (45) .
+ad_atticum,,32,CICERO,ATTICO,,,Scr. Asturae v K. Apr. a. 709 (45).
+ad_atticum,,33,CICERO,ATTICO,,,Scr. Asturae vii K. Apr. a. 709 (45).
+ad_atticum,,34,CICERO,ATTICO,,,Scr. Asturae iii K. Apr. a. 709 (45).
+ad_atticum,,35,CICERO,ATTICO,,,Scr. fort. in suburbano Siccae K. vesp. aut mane vi Non. Mai. a. 709 (45).
+ad_atticum,,36,CICERO,ATTICO,,,Scr. Asturae v Non. Mai. a. 709 (45).
+ad_atticum,,37,CICERO,ATTICO,,,Scr. Asturae iv Non. Mai. a. 709 (45).
+ad_atticum,,37A,CICERO,ATTICO,,,Scr. Asturae iii Non. Mai. a. 709 (45).
+ad_atticum,,38,CICERO,ATTICO,,,Scr. Asturae prid. Non. Mai. a. 709 (45).
+ad_atticum,,38A,CICERO,ATTICO,-0045,-45.0,Scr. Asturae Non. Mai. a. 709 (45) .
+ad_atticum,,39,CICERO,ATTICO,,,Scr. Asturae viii Id. Mai. a. 709 (45).
+ad_atticum,,40,CICERO,ATTICO,,,Scr. Asturae vii Id. Mai. a. 709 (45).
+ad_atticum,,41,CICERO,ATTICO,,,Scr. Asturae v Id. Mai. a. 709 (45).
+ad_atticum,,42,CICERO,ATTICO,,,Scr. Asturae vi Id. Mai. a. 709 (45).
+ad_atticum,,43,CICERO,ATTICO,,,Scr. Asturae iv Id. Mai. a. 709 (45).
+ad_atticum,,44,CICERO,ATTICO,,,Scr. Asturae iii Id. Mai. a. 709 (45).
+ad_atticum,,45,CICERO,ATTICO,,,Scr. in Tusculano xvi K. Iun. a. 709 (45).
+ad_atticum,,46,CICERO,ATTICO,-0045,-45.0,Scr. Asturae ld. Mai. a. 709 (45) .
+ad_atticum,,47,CICERO,ATTICO,,,Scr. Lanuvi xvii K. Iun. a. 709 (45).
+ad_atticum,,48,CICERO,ATTICO,,,Scr. Lanuvi xvi K. Iun. mane a. 709 (45).
+ad_atticum,,49,CICERO,ATTICO,,,Scr. in Tusculano xiv K. Iun. a. 709 (45).
+ad_atticum,,50,CICERO,ATTICO,-0045,-45.0,Scr. in Tusculano xv K. Iun. a. 709 (45) .
+ad_atticum,,51,CICERO,ATTICO,-0045,-45.0,Scr. in Tusculano xiii K. luit. a. 709 (45) .
+ad_atticum,,52,CICERO,ATTICO,,,Scr. in Tusculano xii K. Iun. a. 709 (45).
+ad_atticum,,53,CICERO,ATTICO,,,Scr. in Tusculano xi K. Iun. a. 709 (45).
+ad_atticum,,1,CICERO,ATTICO,,,Scr. in Tusculano x K. Iun. a. 709 (45).
+ad_atticum,,2,CICERO,ATTICO,-0045,-45.0,Scr. in Tusculano ix K. Iun. a. 709 (45) .
+ad_atticum,,2A,CICERO,ATTICO,,,Scr. in Tusculano vi K. Iun. a. 709 (45).
+ad_atticum,,2B,CICERO,ATTICO,,,Scr. in Tusculano iv K. Iun. a. 709 (45).
+ad_atticum,,3,CICERO,ATTICO,,,Scr. in Tusculano iii K. Iun. a. 709 (45).
+ad_atticum,,4,CICERO,ATTICO,-0045,-45.0,Scr. in Tusculano K. Iun. a. 709 (45) .
+ad_atticum,,5,CICERO,ATTICO,,,Scr. in Tusculano iv Non. Iun. a. 709 (45).
+ad_atticum,,6,CICERO,ATTICO,-0045,-45.0,"Scr. Asturae med. m. Mart., ut videtur, a. 709 (45) ."
+ad_atticum,,6A,CICERO,ATTICO,,,Scr. in Tusculano prid. Non. Iun. 709 (45).
+ad_atticum,,7,CICERO,ATTICO,,,Scr. in Tusculano v Id. Iun. a. 709 (45).
+ad_atticum,,7A,CICERO,ATTICO,,,Scr. in Tusculano iv Id. Iun. a. 709 (45).
+ad_atticum,,8,CICERO,ATTICO,,,Scr. in Tusculano vi Id. Iun. a. 709 (45).
+ad_atticum,,9,CICERO,ATTICO,-0045,-45.0,Scr. in Tusculano xttv K. Quint. a. 709 (45) .
+ad_atticum,,10,CICERO,ATTICO,,,Scr. in Tusculano inter a. d. xiiii et xi K. Quint. a. 709 (45).
+ad_atticum,,11,CICERO,ATTICO,,,Scr. in Arpinati ix K. Quint. a. 709 (45).
+ad_atticum,,12,CICERO,ATTICO,,,Scr. in Arpinati vh i K. Quint. a. 709 (45).
+ad_atticum,,13,CICERO,ATTICO,,,Scr. in Arpinati vi K. Quint. a. 709 (45).
+ad_atticum,,14,CICERO,ATTICO,-0045,-45.0,Scr. in Arpinati v K. Quint. a. 709 (45) .
+ad_atticum,,16,CICERO,ATTICO,-0045,-45.0,Scr. in Arpinati iv K. Quint. a. 709 (45) .
+ad_atticum,,17,CICERO,ATTICO,,,Scr. in Arpinati iii K. Quint. a. 709 (45).
+ad_atticum,,19,CICERO,ATTICO,-0045,-45.0,Scr. in Arpinati prid. K. Quint. a. 709 (45) .
+ad_atticum,,20,CICERO,ATTICO,,,Scr. in Arpinati vi aut v Non. Quint. a. 709 (45).
+ad_atticum,,21,CICERO,ATTICO,,,Scr. Asturae iv K. Sext. a. 709 (45).
+ad_atticum,,21A,CICERO,ATTICO,-0045,-45.0,Scr. in Arpinati prid. K. aut K. Quint. a. 709 (45) .
+ad_atticum,,22,CICERO,ATTICO,,,Scr. in Arpinati iv Non. Quint. a. 709 (45).
+ad_atticum,,23,CICERO,ATTICO,,,Scr. in Tusculano vi Id. Quint. a. 709 (45).
+ad_atticum,,24,CICERO,ATTICO,,,Scr. in Tusculano v Id. Quint. a. 709 (45).
+ad_atticum,,25,CICERO,ATTICO,,,Scr. in Tusculano iv Id. Quint. a. 709 (45).
+ad_atticum,,26,CICERO,ATTICO,,,Scr. in Tusculano prid. Id. Mai. a. 709 (45).
+ad_atticum,,27,CICERO,ATTICO,,,Scr. in Tusculano viii K. Iun. a. 709 (45).
+ad_atticum,,28,CICERO,ATTICO,-0045,-45.0,Scr. in Tusculano Vii. K. Iun. a. 709 (45) .
+ad_atticum,,29,CICERO,ATTICO,,,Scr. in Tusculano vi K. Iun. a. 709 (45).
+ad_atticum,,30,CICERO,AT,,,Scr. in Tusculano post op xxxi v K. Iun. a. 709 (45).
+ad_atticum,,31,CICERO,ATTICO,,,Scr. in Tusculano v K. Iun. a. 709 (45).
+ad_atticum,,32,CICERO,ATTICO,,,Scr. in Tusculano iv K. Iun. a. 709 (45).
+ad_atticum,,33,CICERO,ATTICO,,,Scr. in Tusculano iii Non. Iun. a. 709 (45).
+ad_atticum,,33A,CICERO,ATTICO,-0045,-45.0,Scr. in Tusculano vii. Id. Quint. a. 709 (45) .
+ad_atticum,,34,CICERO,ATTICO,,,Scr. Asturae vi K. Sext. a. 709 (45).
+ad_atticum,,35,CICERO,ATTICO,,,Scr. in Tusculano iii Id. Quint. a. 709 (45).
+ad_atticum,,37,CICERO,ATTICO,,,Scr. in Tusculano iv Non. Sext. a. 709 (45).
+ad_atticum,,38,CICERO,ATTICO,,,Scr. in Tusculano circ. prid. Non. Sext. a. 709 (45).
+ad_atticum,,39,CICERO,ATTICO,-0045,-45.0,Scr. in Tusculano m. Non. Sext. a. 709 (45) .
+ad_atticum,,40,CICERO,ATTICO,,,Scr. in Tusculano vii aut vi Id. Sext. a. 709 (45).
+ad_atticum,,41,CICERO,ATTICO,,,Scr. in Tusculano vi aut v Id. Sext. a. 709 (45).
+ad_atticum,,42,CICERO,ATTICO,-0045,-45.0,Scr. in Tusculano ex. m. Dec. a. 709 (45) .
+ad_atticum,,43,CICERO,ATTICO,,,Scr. in Tusculano prid. Id. Quint. a. 709 (45).
+ad_atticum,,44,CICERO,ATTICO,,,Scr. in Tusculano xiii aut xii K. Sext. a. 709 (45).
+ad_atticum,,45,CICERO,ATTICO,,,Scr. in Tusculana iii Id. Sext. a. 709 (45).
+ad_atticum,,46,CICERO,ATTICO,,,Scr. ia Tusculano prid. Id. Sext. a. 709 (45).
+ad_atticum,,47,CICERO,ATTICO,-0045,-45.0,Scr. in Tusculano Id. Sext. a. 709 (45) .
+ad_atticum,,47A,CICERO,ATTICO,-0045,-45.0,Scr. Asturae ih. K. SexA a. 709 (45) .
+ad_atticum,,48,CICERO,ATTICO,-0045,-45.0,Scr. in Tusculano t%u Non. Sext. a. 709 (45) .
+ad_atticum,,49,CICERO,ATTICO,,,Scr. in Tusculano circ xiii K. Sept. a. 709 (45).
+ad_atticum,,50,CICERO,ATTICO,,,Scr. in Tusculano circ. xi K. Sept. a. 709 (45).
+ad_atticum,,51,CICERO,ATTICO,,,Scr. in Tusculano ix K. Sept. a. 709 (45).
+ad_atticum,,52,CICERO,ATTICO,,,Scr. in Puteolano xiv K. Ian. a. 709 (45).
+ad_atticum,,1,CICERO,ATTICO,,,Scr. in suburbano Mati vii Id. Apr. a. 710 (44).
+ad_atticum,,2,CICERO,ATTICO,,,Scr. in suburbano Mati vi Id. Apr. a. 710 (44).
+ad_atticum,,3,CICERO,ATTICO,,,Scr. in Tusculano v Id. Apr. a. 710 (44).
+ad_atticum,,4,CICERO,ATTICO,,,Scr. Lanuvi iv Id. Apr. a. 710 (44).
+ad_atticum,,5,CICERO ATTICO,,-0044,-44.0,Scr. Asturae it Id. Apr. a. 710 (44) .
+ad_atticum,,6,CICERO ATTICO,,,,Scr. Fundis prid. Id. Apr. a. 710 (44).
+ad_atticum,,7,CICERO,ATTICO,,,Scr. in Formiano xvii K. Mai. a. 710 (44).
+ad_atticum,,8,CICERO,ATTICO,,,Scr. in Sinuessano xvii K. Mai. a. 710 (44).
+ad_atticum,,9,CICERO,ATTICO,,,Scr. in Cumano xv K. Mai. a. 710 (44).
+ad_atticum,,10,CICERO,ATTICO,,,Scr. in Cumano xiii K. Mai. a. 710 (44).
+ad_atticum,,11,CICERO,ATTICO,,,Scr. in Cumano xi K. Mai. a. 710 (44).
+ad_atticum,,12,CICERO,ATTICO,,,Scr. Puteoli x K. Mai. a. 710 (44).
+ad_atticum,,13,CICERO,ATTICO,,,Scr. in Cumano vi K. Mai. a. 710 (44).
+ad_atticum,,13A,ANTONIVS COS.,M. CICERONI,,,Scr. Romae inter a. d. x et vii K. Mai. a. 710 (44).
+ad_atticum,,13B,CICERO ANTONIO COS.,,,,Scr. in Cumano vi K. Mai. a. 710 (44).
+ad_atticum,,14,CICERO ATTICO,,,,Scr. in Cumano a. d. v K. Mai. a. 710 (44).
+ad_atticum,,15,CICERO,ATTICO,-0044,-44.0,Scr. in Cumano K. Mart. a. 710 (44) .
+ad_atticum,,16,CICERO,ATTICO,,,Scr. in Puteolano sive hortis Cluvianis v Non. Mai. a. 710 (44).
+ad_atticum,,17,CICERO,ATTICO,,,Scr. in Pompeiano iv Non. Mai. a. 710 (44).
+ad_atticum,,17A,CICERO,DOLABELLAE,-0044,-44.0,Scr. in Pompeiano v Nou. Mai. a. 710 (44) . =ad fam. 9.14.
+ad_atticum,,18,CICERO,ATTICO,,,Scr. in Pompeiano vii Id. Mai. a. 710 (44).
+ad_atticum,,19,CICERO,ATTICO,,,Scr. in Pompeiano vh i Id. Mai. 710 (44).
+ad_atticum,,20,CICERO,ATTICO,,,Scr. in Puteolano v Id. Mai a. 7Z0 (44).
+ad_atticum,,21,CICERO,ATTICO,,,Scr. in Puteolano v Id. Mai. a. 710 (44).
+ad_atticum,,22,CICERO,ATTICO,,,Scr. in Puteolano prid. Id. Mai. a. 710 (44).
+ad_atticum,,1,CICERO,ATTICO,,,Scr. in Puteolano xvi K. Iun. a. 710 (44).
+ad_atticum,,1A,CICERO,ATTICO,,,Scr. in Sinuessano xv K. Iun. a. 710 (44).
+ad_atticum,,2,CICERO,ATTICO,,,Scr. in Vescino xv K. Iun. a. 710 (44).
+ad_atticum,,3,CICERO,ATTICO,-0044,-44.0,Scr. in Arpinati xt K. Iun. a. 710 (44) .
+ad_atticum,,4,CICERO,ATTICO,-0044,-44.0,Scr. in Arpinati ix K. Iun. a. 710 (44) .
+ad_atticum,,4A,CICERO,ATTICO,-0044,-44.0,Scr. in Tusculano vi K. Iun. a. 710 (44) .
+ad_atticum,,5,CICERO,ATTICO,,,Scr. in Tusculano v K. Iun. a. 710 (44).
+ad_atticum,,6,CICERO,ATTICO,-0044,-44.0,Scr. in Tusculano vi K. Iun. vesperi a. 710 (44) .
+ad_atticum,,7,CICERO,ATTICO,,,Scr. in Tusculano v aut iv K. Iun. a. 710 (44).
+ad_atticum,,8,CICERO,ATTICO,,,Scr. in Tusculano prid. K. Iun. a. 710 (44).
+ad_atticum,,9,CICERO,ATTICO,,,Scr. in Tusculano iv Non. Iun. a. 710 (44).
+ad_atticum,,10,CICERO,ATTICO,-0044,-44.0,Scr. in Tusculano Non. Iun. aut postr:die a. 710 (44) .
+ad_atticum,,11,CICERO,ATTICO,,,Scr. in Antiati a. d. vi Id. Iun. a. 710 (44).
+ad_atticum,,12,CICERO,ATTICO,,,Scr. in Antiati v aut iv Id. Iun. a. 710 (44).
+ad_atticum,,13,CICERO,ATTICO,-0044,-44.0,Scr. in Puteolano viii K. Nov. a. 710 (44) .
+ad_atticum,,14,CICERO,ATTICO,,,Scr. in Tusculano v K. Quint. a. 710 (44).
+ad_atticum,,15,CICERO,ATTICO,,,Scr. in Antiat i Id. Iun. a. 710 (44).
+ad_atticum,,16,CICERO,ATTICO,,,Scr. in Antiati iii aut prid. Id. Iun. a. 710 (44).
+ad_atticum,,16A,CICERO,ATTICO,-0044,-44.0,Scr. in Arpinati xiv aut xiii K. Iun. a. 710 (44) .
+ad_atticum,,17,CICERO,ATTlCO,-0044,-44.0,Scr. in Antiati postr. Id. Iun. a. 710 (44) .
+ad_atticum,,18,CICERO,ATTICO,,,Scr. in itinere ex Antiati in Tusculanum xvi K. Quint. a. 710 (44).
+ad_atticum,,19,CICERO,ATTICO,,,Scr. in Tusculano inter a. d. xv et xi K. Quint. a. 710 (44).
+ad_atticum,,20,CICERO,ATTICO,,,Scr. in Tusculano inter xv et xi K. Quint. a. 710 (44).
+ad_atticum,,21,CICERO,ATTICO,,,Scr. in Tusculano x K. Quint. a. 710 (44).
+ad_atticum,,22,CICERO,ATTICO,,,Scr. in Tusculano v K. Quint. mane a. 710 (44).
+ad_atticum,,23,CICERO,ATTICO,,,Scr. in Tusculano viW aut vii K. Quint. a. 710 (44).
+ad_atticum,,24,CICERO,ATTICO,,,"Scr. in Tusculano vi K. Quint. mane, ut vid., a. 710 (44)."
+ad_atticum,,25,CICERO,ATTICO,-0044,-44.0,Scr. in Tusculano iii K. Quint. a. 710 (44) .
+ad_atticum,,26,CICERO,ATTICO,,,Scr. in Arpinati vi Non. Quint. a. 710 (44).
+ad_atticum,,27,CICERO,ATTICO,,,Scr. in Arpinati. v Non. Quint. a. 710 (44).
+ad_atticum,,28,CICERO,ATTICO,,,Scr. in Arpinati v Non. Quint. a. 710 (44).
+ad_atticum,,29,CICERO,ATTICO,-0044,-44.0,Scr. in Formiano prict Non. Quint. a. 710 (44) .
+ad_atticum,,1,CICERO,ATTICO,,,Scr. in Puteolano viii Id. Quint. a. 710 (44).
+ad_atticum,,2,CICERO,ATTICO,,,Scr. in Puteolano v Id. Quint. a. 710 (44).
+ad_atticum,,3,CICERO,ATTICO,-0044,-44.0,Scr. in Pompeiano xvi K. Sext. a. 710 (44) .
+ad_atticum,,4,CICERO,ATTICO,,,Scr. in Puteolano vi Id. Quint. a. 710 (44).
+ad_atticum,,5,CICERO,ATTICO,,,Scr. in Puteolano vii Id. Quint. a. 710 (44).
+ad_atticum,,6,CICERO,ATTICO,-0044,-44.0,Scr. Vibone viii K. Sext. a. 710 (44) .
+ad_atticum,,7,CICERO,ATTICO,-0044,-44.0,Scr. navigans ad Pompeianum xiv K. Sept. a. 710 (44) .
+ad_atticum,,8,CICERO,ATTICO,-0044,-44.0,Scr. in Puteolano iv Non. Nov. a. 710 (44) .
+ad_atticum,,9,CICERO,ATTICO,,,Scr. in Puteolano prid. Non. Nov. a. 710 (44).
+ad_atticum,,10,CICERO,ATTICO,,,Scr. in Sinuessano vi Id. Nov. a. 710 (44).
+ad_atticum,,11,CICERO,ATTICO,-0044,-44.0,Scr. in Puteolano Non. Nov. a. 710 (44) .
+ad_atticum,,12,CICERO,ATTICO,-0044,-44.0,Scr. in Puteolano vht Id. Nov. a. 710 (44) .
+ad_atticum,,13,CICERO,ATTICO,,,Scr. Aquini iv Id. Nov. a. 710 (44).
+ad_atticum,,13A,CICERO,ATTICO,,,Scr. in Arpinati it i Id. Nov. a. 710 (44).
+ad_atticum,,14,CICERO,ATTICO,-0044,-44.0,Scr. in Arpinati medio mense Novembri a. 710 (44) .
+ad_atticum,,15,CICERO,ATTICO,,,Scr. in Arpinati ante v Id. Dec. a. 710 (44).
+ad_atticum,,16,CICERO,suo,,,Scr. in Tusculano inter v et prid. Non. Quint. a. 710 (44).
+ad_atticum,,16A,M.,CICERO,,,Scr. in Tusculano eodem tempore.
+ad_atticum,,16B,CICERO,PLANCO,,,Scr. paulo post ep. 16A.
+ad_atticum,,16C,CICERO,CAPITONI,,,Scr. eodem tempore quo ep. 16 B.
+ad_atticum,,16D,CICERO,C.,,,Scr. eodem tempore quo ep. 16 C.
+ad_atticum,,16E,CICERO,PLANCO,,,Scr. post ep. 16B.
+ad_atticum,,16F,CICERO,CAPITONI,,,Scr. paulo post ep. 16 C.
+ad_quintum_fratrem,1,1,MARCVS,QVINTO,-0060,-60.0,Scr. Romae ex. a. 694 (60) aut in. a. 695 (59).
+ad_quintum_fratrem,1,2,MARCVS,QVINTO,,,Scr. Romae inter va vi K. Nov. et iv Id. Dec. a. 695 (59).
+ad_quintum_fratrem,1,3,MARCVS,QVINTO,-0058,-58.0,Scr. Thessalonicae Id. Iun. 0. 696 (58) .
+ad_quintum_fratrem,1,4,MARCVS,QVINTO,-0058,-58.0,Scr. Thessalonicae mense Sext. circ. Non. a. 696 (58) .
+ad_quintum_fratrem,2,1,MARCVS,QVINTO,-0057,-57.0,Scr. Romae m. Dec. a. 697 (57) .
+ad_quintum_fratrem,2,2,MARCVS,QVINTO,-0056,-56.0,Scr. Romae xiv K. Febr. a. 698 (56) .
+ad_quintum_fratrem,2,3,MARCVS,QVINTO,,,Scr. Romae prid. Id. Febr. et xv K. Mart. a. 698 (56).
+ad_quintum_fratrem,2,4,MARCVS,QVINTO,-0056,-56.0,Scr. Romae mense Martio a. 698 (56) .
+ad_quintum_fratrem,2,5,MARCVS,QVINTO,,,Scr. proficiscens in Anagninum a. d. vi Idus Apr. a. 698 (56).
+ad_quintum_fratrem,2,6,MARCVS,QVINTO,-0056,-56.0,Scr. Romae mense Maio paulo post Idus a. 698 (56) .
+ad_quintum_fratrem,2,7,MARCVS,QVINTO,-0055,-55.0,Scr. Romae mense Februado a. 699 (55) .
+ad_quintum_fratrem,2,8,MARCVS,QVINTO,-0055,-55.0,Scr. mense Maio a. 699 (55) .
+ad_quintum_fratrem,2,9,MARCVS,QVINTO,-0054,-54.0,Scr. ineunte mense Februanto a. 700 (54) .
+ad_quintum_fratrem,2,10,MARCVS,QVINTO,-0054,-54.0,Scr. Romae Idibus Februariis a. 700 (54) .
+ad_quintum_fratrem,2,11,MARCVS,QVINTO,,,Scr. Romae a. d. xvi K. Martias a. 700 (54).
+ad_quintum_fratrem,2,12,MARCVS,QVINTO,-0054,-54.0,Scr. in Cumano vel Pompeiano m. Mai. a. 700 (54) .
+ad_quintum_fratrem,2,13,MARCVS,QVINTO,-0054,-54.0,Scr. Romae in. m. Iun. a. 700 (54) .
+ad_quintum_fratrem,2,14,MARCVS,QVINTO,,,Scr. Romae fort. a. d. vi K. Sext. a. 700 (54).
+ad_quintum_fratrem,2,15,MARCVS,QVINTO,-0054,-54.0,Scr. Romae ex. m. Sext. a. 700 (54) .
+ad_quintum_fratrem,3,1,MARCVS,QVINTO,-0054,-54.0,Scr. m. Sept. a. 700 (54) .
+ad_quintum_fratrem,3,2,MARCVS,QUINTO,,,Scr. Romae a. d. v Idus Octobris a. 700 (54).
+ad_quintum_fratrem,3,3,MARCVS,QUINTO,-0054,-54.0,Scr. Romae a. d. xit K. Nov. 700 (54) .
+ad_quintum_fratrem,3,4,MARCVS,QVINTO,,,Scr. Romae a. d. ix K. Nov. a. 700 (54).
+ad_quintum_fratrem,3,5,MARCVS,QVINTO,-0054,-54.0,Scr. in Tusculano ex. m. Oct. aut in. Nov. a. 700 (54) .
+ad_quintum_fratrem,3,7,MARCVS,QVINTO,-0054,-54.0,Scr. in Tusculano ex. m. Oct. aut in. m. Nov. a. 700 (54) .
+ad_quintum_fratrem,3,8,MARCVS,QUINTO,-0054,-54.0,Scr. Romae ex. m. Nov. a. 700 (54) .
+ad_quintum_fratrem,3,9,MARCVS,QUINTO,-0054,-54.0,Scr. Romae m. Dec. a. 700 (54) .
+ad_m_brutum,1,1,Cicero,Bruto,-0043,-43.0,Scr. eodem die quo ep. 2a. 711 (43) .
+ad_m_brutum,1,2,Cicero,Bruto,,,Scr. Romae ex. m. Mai. a. 711(43).
+ad_m_brutum,1,2a,Cicero,Bruto,,,Scr. Romae xv K. Mai. a. 711 (43).
+ad_m_brutum,1,3,Cicero,Bruto,,,"Scr. Romae xi K. Mai. , ut videtur, a. 711 (43)"
+ad_m_brutum,1,3a,Cicero,Bruto,,,Scr. Romae v Kal. Mai. a. 711 (43).
+ad_m_brutum,1,4,Brutus,Ciceroni,-0043,-43.0,Scr. Dyrrachi iii antprid. id. Mai. a. 711 (43) .
+ad_m_brutum,1,4a,Brutus,Ciceroni,-0043,-43.0,Scr. ex castris Id. Mai. a. 711 (43) .
+ad_m_brutum,1,5,Cicero,Bruto,,,Scr. Romae iii Non. Mai. a. 711 (43).
+ad_m_brutum,1,6,Brutus,Ciceroni,,,Scr. Romae xiv K. Iun. a. 711 (43).
+ad_m_brutum,1,7,Brutus,Ciceroni,,,"Scr. in castris circ. ix K. Quint. , a. 711 (43)."
+ad_m_brutum,1,8,Cicero,Bruto,-0043,-43.0,Scr. ex. m. Maio aut in. Iun. a. 711 (43) .
+ad_m_brutum,1,9,Cicero,Bruto,-0043,-43.0,Scr. Romae. in. Quint. ...ut videtur a. 711 (43) .
+ad_m_brutum,1,10,Cicero,Bruto,-0043,-43.0,Scr. Romae med. m. Quint. a. 711 (43) .
+ad_m_brutum,1,11,Brutus,Ciceroni,-0043,-43.0,"Scr. in castris ex. m. Iun., a. 711 (43) ."
+ad_m_brutum,1,12,Cicero,Bruto,-0043,-43.0,Scr. Romae in. m. Quint. a. 711 (43) .
+ad_m_brutum,1,13,Brutus,Ciceroni,-0043,-43.0,Scr. in castris K. Quint. a. 711 (43) .
+ad_m_brutum,1,14,Cicero,Bruto,,,"Scr. Romae v Id. Quint. , a. 711 (43)."
+ad_m_brutum,1,15,Cicero,Bruto,-0043,-43.0,Scr. Romae circ. med. in. Quint. a. 711 (43)
+ad_m_brutum,1,16,Brutus,Ciceroni,,,Scr. Athenis in. Maio a. 711 (a).
+ad_m_brutum,1,17,Brutus,Attico,-0043,-43.0,"Scr. m. Maio, ut videtur, a. 711 (43) ."
+ad_m_brutum,1,18,Cicero,Bruto,,,"Scr. Romae vi K. Sex. , a. 711 (43)."
+ad_m_brutum,2,1,Cicero,Bruto,-0043,-43.0,Scr. Romae ex. m. Mart. ant in. Apr. a. 711 (43) .
+ad_m_brutum,2,2,Cicero,Bruto,,,Scr. Romae iii Id. Apr. a. 711 (43).
+ad_m_brutum,2,3,Brutus,Ciceroni,,,Scr. Dyrrach i K. Apr. a. 711 (43).
+ad_m_brutum,2,4,Cicero,Bruto,,,Scr. Romae prid. Id. Apr. mane a. 711 (43).
+ad_m_brutum,2,5,Cicero,Bruto,,,Scr. Romae xviii K. Mai. a. 711 (43).
